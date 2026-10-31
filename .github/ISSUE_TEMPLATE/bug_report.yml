@@ -1,0 +1,23 @@
+name: 번역·표시 오류
+description: 오역, 글자 잘림, 패치 적용 문제를 알려 주세요.
+title: "[오류] "
+body:
+  - type: input
+    id: version
+    attributes:
+      label: 게임 및 패치 버전
+      placeholder: Xbox PC / v0.3.24+2233f6e / 한글패치 v0.2
+    validations:
+      required: true
+  - type: textarea
+    id: location
+    attributes:
+      label: 문제가 발생한 위치와 문구
+      description: 챕터, 메뉴, 대사 또는 문서 제목을 적어 주세요. 스토리 내용이면 스포일러임을 표시해 주세요.
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: 문제 설명 및 제안
+      description: 기대한 표시와 실제 표시를 설명해 주세요. 화면을 첨부할 수 있습니다. 개인정보는 제외해 주세요.

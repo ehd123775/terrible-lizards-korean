@@ -1,0 +1,106 @@
+{
+  "version": "0.2",
+  "game_version": "v0.3.24+2233f6e",
+  "engine_association": "5.4",
+  "slot": "ja",
+  "total_entries": 2787,
+  "total_unique": 2606,
+  "covered_entries": 2787,
+  "covered_unique": 2606,
+  "translated_unique": 2588,
+  "retained_unique": 18,
+  "hangul_glyphs_checked": 952,
+  "pak_sha256": "4f5e6e7c4dc09e4299e02cf3db6d9a3f0dfa3da67a31383c21ff52c882498eaa",
+  "source_pak_sha256": "856de9bab527888a5f9118f39d4a2920b7944c44f080caf090d74883beae5f30",
+  "font_overrides": [
+    "terrible_lizards/Content/Blueprints/UI/text_styles/RobotoMono-VariableFont_wght.ufont",
+    "terrible_lizards/Content/Font/Noto_Sans_JP/NotoSansJP-Regular.ufont",
+    "terrible_lizards/Content/Materials/UI/FF_VCR_OSD_MONO_1_001.ufont",
+    "terrible_lizards/Content/Materials/UI/Veneer.ufont",
+    "terrible_lizards/Content/Materials/UI/centurygothic.ufont",
+    "terrible_lizards/Content/Materials/UI/centurygothic_bold.ufont"
+  ],
+  "namespaces": {
+    "(dialogue and gameplay)": {
+      "total": 2427,
+      "covered": 2427
+    },
+    "DT_CreditsScroll_v2": {
+      "total": 26,
+      "covered": 26
+    },
+    "ST_LOC_CollectibleUI": {
+      "total": 14,
+      "covered": 14
+    },
+    "ST_LOC_CommonNames": {
+      "total": 41,
+      "covered": 41
+    },
+    "ST_LOC_DemoEnd": {
+      "total": 10,
+      "covered": 10
+    },
+    "ST_LOC_GameOver": {
+      "total": 3,
+      "covered": 3
+    },
+    "ST_LOC_GameStats": {
+      "total": 7,
+      "covered": 7
+    },
+    "ST_LOC_HUD": {
+      "total": 4,
+      "covered": 4
+    },
+    "ST_LOC_Interactions": {
+      "total": 9,
+      "covered": 9
+    },
+    "ST_LOC_Misc": {
+      "total": 2,
+      "covered": 2
+    },
+    "ST_LOC_Modifiers": {
+      "total": 8,
+      "covered": 8
+    },
+    "ST_LOC_Options": {
+      "total": 160,
+      "covered": 160
+    },
+    "ST_LOC_Pause": {
+      "total": 14,
+      "covered": 14
+    },
+    "ST_LOC_Rewards": {
+      "total": 16,
+      "covered": 16
+    },
+    "ST_LOC_SkipContent": {
+      "total": 2,
+      "covered": 2
+    },
+    "ST_LOC_Test": {
+      "total": 1,
+      "covered": 1
+    },
+    "ST_LOC_TitleScreen": {
+      "total": 23,
+      "covered": 23
+    },
+    "ST_LOC_TutorialPopup": {
+      "total": 13,
+      "covered": 13
+    },
+    "ST_LOC_UnrealCredits": {
+      "total": 2,
+      "covered": 2
+    },
+    "ST_LOC_Warnings": {
+      "total": 5,
+      "covered": 5
+    }
+  },
+  "runtime_tested": false
+}
