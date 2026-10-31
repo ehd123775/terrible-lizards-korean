@@ -1,5 +1,5 @@
 {
-  "version": "0.6",
+  "version": "0.7",
   "game_version": "v0.3.24+2233f6e",
   "engine_association": "5.4",
   "slot": "ja",
@@ -10,9 +10,9 @@
   "translated_unique": 2588,
   "retained_unique": 18,
   "text_reviewed_unique": 2606,
-  "revised_unique": 50,
-  "hangul_glyphs_checked": 954,
-  "pak_sha256": "b6d660af81394b2be74e4506a5d49d3ca9d45e33ca8060c187af63baa3e4d681",
+  "revised_unique": 18,
+  "hangul_glyphs_checked": 956,
+  "pak_sha256": "1df8b068ca1e0fd4dba99e527810abdf67a81d79e1a67b7e28a5311072aabe57",
   "source_pak_sha256": "856de9bab527888a5f9118f39d4a2920b7944c44f080caf090d74883beae5f30",
   "font_overrides": [
     "terrible_lizards/Content/Blueprints/UI/text_styles/RobotoMono-VariableFont_wght.ufont",
@@ -106,14 +106,14 @@
   },
   "runtime_tested": false,
   "input_keyname_entries": 362,
-  "review_round": 4,
-  "previous_version": "0.5",
+  "review_round": 5,
+  "previous_version": "0.6",
   "review_date": "2026-10-31",
   "full_playthrough_tested": false,
   "input_keyname_runtime_tested": false,
-  "full_text_review_round": 4,
-  "review_scope": "full_korean_proofread_with_source_rechecks",
-  "review_method": "전체 한국어 문구 정독 후 의심 문구 영어 원문 대조. 모호한 일부는 원본 일본어 번역도 참고.",
+  "full_text_review_round": 5,
+  "review_scope": "full_bilingual_comparison",
+  "review_method": "전체 2,606개 문구의 영어 원문과 한국어 번역을 하나씩 대조. 조건·비교·반복 및 연결 문구 추가 확인.",
   "detailed_reviewed_this_round": 2606,
-  "source_rechecked_this_round": 52
+  "source_rechecked_this_round": 2606
 }

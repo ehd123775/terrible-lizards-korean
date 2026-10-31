@@ -1,352 +1,128 @@
 [
   {
-    "id": 16,
-    "english": "... new. Great. Just what I didn't need.",
-    "before": "...새로운 거네. 좋아. 딱 필요 없던 건데.",
-    "after": "...새로운 거네. 좋네. 하나도 반갑지 않은데.",
-    "reason": "Just what I didn’t need의 반어를 자연스러운 불만 표현으로 전달."
+    "id": 58,
+    "english": "According to Jensen, fabricating these lights and the filters required to project the spectrum correctly...is laborious and time consuming.",
+    "before": "젠슨에 따르면, 이 조명과 정확한 파장을 투사하기 위한 필터를 만드는 데는... 많은 수고와 시간이 든다고 합니다.",
+    "after": "젠슨에 따르면, 이 조명과 빛의 스펙트럼을 정확히 구현하는 데 필요한 필터를 만드는 작업은... 손이 많이 가고 오래 걸린다고 합니다.",
+    "reason": "spectrum을 단일 파장으로 한정하던 표현을 빛의 스펙트럼으로 복원하고 제작 문장을 정리."
   },
   {
-    "id": 99,
-    "english": "All right, so you're starting to make our side not sound good.",
-    "before": "좋아, 그러니까 네 말 때문에 우리 쪽 입장이 점점 나빠지고 있네.",
-    "after": "좋아, 네 말을 들을수록 우리 쪽 입장이 점점 더 안 좋아 보이네.",
-    "reason": "상대의 말 때문에 자기 쪽 입장이 나빠 보인다는 대사 연결을 자연스럽게 정리."
+    "id": 249,
+    "english": "But Dalton, he and some kind of...shadow broker went all in.",
+    "before": "하지만 달턴은 정체 모를... 암거래 중개인과 함께 모든 걸 걸었어.",
+    "after": "하지만 달턴은 어떤... 수상한 중개인과 함께 모든 걸 걸었어.",
+    "reason": "shadow broker를 암거래라는 구체적 거래 방식으로 단정하지 않고 음지의 수상한 중개인이라는 의미로 전달."
   },
   {
-    "id": 122,
-    "english": "Alright, since the exit doors aren't working, I've got an idea.",
-    "before": "좋아, 출구 문이 안 열리니까, 내게 생각이 있어.",
-    "after": "좋아, 출구 문이 안 열리니 생각난 게 있어.",
-    "reason": "since의 이유 연결과 아이디어를 제안하는 구어체를 정리."
+    "id": 261,
+    "english": "But honestly, if someone wants to be down here...doing the work they were hired for when too many around here are unemployed...",
+    "before": "하지만 솔직히, 실업자가 이렇게 많은데 누군가 여기 남아서... 고용된 일을 하겠다고 한다면...",
+    "after": "하지만 솔직히, 실업자가 이렇게 많은데 누군가 여기 남아서... 자기에게 맡겨진 일을 하겠다고 한다면...",
+    "reason": "고용된 일이라는 어색한 수식을 맡은 업무를 수행한다는 원문 구조로 정리."
   },
   {
-    "id": 204,
-    "english": "At DES, we're a family! And no one gets left behind.",
-    "before": "DES의 우리는 한 가족입니다! 누구도 뒤에 남겨 두지 않죠.",
-    "after": "DES에서는 모두 한 가족입니다! 누구도 뒤에 남겨 두지 않죠.",
-    "reason": "At DES를 어색한 소유격 대신 장소·조직을 나타내는 조사로 수정."
+    "id": 268,
+    "english": "But not nearly as large as the Brontosaurus, they had to work together wherever possible.",
+    "before": "하지만 브론토사우루스만큼 크지는 않아서, 가능할 때마다 힘을 합쳐야 했죠.",
+    "after": "하지만 브론토사우루스보다 훨씬 작았기 때문에, 가능할 때마다 힘을 합쳐야 했죠.",
+    "reason": "not nearly as large의 큰 크기 차이를 복원."
   },
   {
-    "id": 307,
-    "english": "Check on DJ",
-    "before": "DJ 확인하기",
-    "after": "DJ가 괜찮은지 확인하기",
-    "reason": "Check on의 안부·상태 확인 목적을 목표 문구에 명시."
+    "id": 967,
+    "english": "I-I’ll get him help, I promise. But I-",
+    "before": "도움을 구할게. 약속해. 하지만 난...",
+    "after": "그 사람을 도와줄 사람을 구할게. 약속해. 하지만 난...",
+    "reason": "get him help에서 빠졌던 도움의 대상을 복원하고 연결 대사에 맞춤."
   },
   {
-    "id": 405,
-    "english": "Dalton,\n\nI’m writing this because somehow it is easier than trying to catch you at home lately. I’m heading to New York for a few days for the conference we discussed. You know how much this talk means to me, so I’m going. \n\nI shouldn't have to remind you that Stella is at the U of A for her lab testing for another day or so. DJ is depending on you. Until she gets back, please just keep an eye on him. Don't put him up in the loft space and leave him there for hours. His imagination is getting away with him, and I need him to keep both feet on the ground.\n\nWhen I get back, we need to talk seriously about how things have been. I’m not asking for grand gestures. I’m asking you to look at what is right in front of you before it slips any further out of reach.\n\n-E",
-    "before": "달턴,\n\n요즘은 집에서 당신을 붙잡는 것보다 글로 쓰는 게 차라리 쉬워서 편지를 남겨요. 이야기했던 학회 때문에 며칠 동안 뉴욕에 다녀올게요. 이번 발표가 내게 얼마나 중요한지 알 테니, 꼭 갈 거예요.\n\n스텔라가 U of A 대학에서 실험하느라 하루 이틀 더 걸린다는 건 굳이 말 안 해도 알겠죠. DJ는 당신을 의지하고 있어요. 스텔라가 돌아올 때까지 아이 좀 지켜봐 줘요. 다락방에 올려보내 놓고 몇 시간씩 혼자 두지 말고요. 상상이 너무 지나쳐지고 있어서 현실에 발을 붙이게 해 줘야 해요.\n\n돌아오면 요즘 상황에 대해 진지하게 이야기해요. 거창한 걸 바라는 게 아니에요. 바로 눈앞의 것들이 더 멀어지기 전에 한번 봐 달라는 거예요.\n\n-E",
-    "after": "달턴,\n\n요즘은 집에서 당신을 붙잡는 것보다 글로 쓰는 게 차라리 쉬워서 편지를 남겨요. 이야기했던 학회 때문에 며칠 동안 뉴욕에 다녀올게요. 이번 발표가 내게 얼마나 중요한지 알 테니, 꼭 갈 거예요.\n\n스텔라가 U of A 대학에서 실험하느라 하루 이틀 더 걸린다는 건 굳이 말 안 해도 알겠죠. DJ는 당신을 의지하고 있어요. 스텔라가 돌아올 때까지 아이 좀 지켜봐 줘요. 다락방에 올려보내 놓고 몇 시간씩 혼자 두지 말고요. 상상이 너무 지나쳐지고 있어서 현실에 발을 붙이게 해 줘야 해요.\n\n돌아오면 요즘 상황에 대해 진지하게 이야기해요. 거창한 걸 바라는 게 아니에요. 바로 눈앞에 있는 것들을 더 놓치기 전에 돌아봐 달라는 거예요.\n\n-E",
-    "reason": "관계에 주의를 기울여 달라는 편지의 호소를 자연스럽게 전달."
+    "id": 979,
+    "english": "If the smaller one doesn't get me...",
+    "before": "작은 놈한테 잡히지만 않는다면...",
+    "after": "작은 놈한테 안 잡히더라도...",
+    "reason": "뒤의 the allosaurus most certainly will과 이어지는 비관적 양보 조건으로 정리."
   },
   {
-    "id": 427,
-    "english": "Despite the NDAs out the wazoo I had to sign, they hired me pretty easily. Joke's on them, I've got no skill to offer. Chumps. But now, now I can go wild in here. It's an explorer adrenaline junkie's wet dream. I'll get lost in here for a few days and get gone with pay in hand. Cheers to me!",
-    "before": "지겹도록 비밀유지계약에 서명시켜 놓고는 채용은 꽤 쉽게 해 줬다. 제대로 낚였지. 난 내세울 기술도 없는데. 멍청이들. 이제 여기서 실컷 날뛸 수 있다. 탐험과 아드레날린에 미친 사람에게는 꿈같은 곳이다. 며칠 동안 숨어 돌아다니다가 돈 받고 떠나야지. 나를 위해 건배!",
-    "after": "지겹도록 비밀유지계약에 서명시켜 놓고는 채용은 꽤 쉽게 해 줬다. 제대로 속아 넘어간 건 저놈들이다. 난 내세울 기술도 없는데. 멍청이들. 이제 여기서 실컷 날뛸 수 있다. 탐험과 아드레날린에 미친 사람에게는 꿈같은 곳이다. 며칠 동안 숨어 돌아다니다가 돈 받고 떠나야지. 나를 위해 건배!",
-    "reason": "Joke’s on them의 대상을 명시해 화자 자신이 속았다는 오독 방지."
+    "id": 1057,
+    "english": "It's not nearly as intelligent as we thought...",
+    "before": "우리가 생각한 것만큼 똑똑하지 않아...",
+    "after": "우리가 생각했던 것보다 훨씬 덜 똑똑해...",
+    "reason": "not nearly as intelligent의 큰 정도 차이를 복원."
   },
   {
-    "id": 494,
-    "english": "Drinking water is somehow the least of our worries at the moment. We simply cannot keep our machines cooled. All the water coming into our pipes is gunked up. The crew is pulling regular 12 hour shifts, now around the clock, and we're barely keeping things running at 60%. Mr. Coolidge, we need your input here. If we push the environment any harder, we may find ourselves in a catastrophic flood event. -Nick",
-    "before": "이상하게도 지금은 식수가 가장 작은 걱정거리입니다. 기계 냉각을 유지할 수가 없습니다. 관으로 들어오는 물이 전부 찌꺼기투성이입니다. 작업반은 이제 12시간씩 24시간 교대 근무를 하고도 가동률을 겨우 60%로 유지하고 있습니다. 쿨리지 씨, 당신의 판단이 필요합니다. 여기서 더 무리하면 대재앙급 침수가 발생할 수도 있습니다. - 닉",
-    "after": "이상하게도 지금은 마실 물보다 더 큰 걱정거리가 있습니다. 기계 냉각을 유지할 수가 없습니다. 관으로 들어오는 물이 전부 찌꺼기투성이입니다. 작업반은 이제 12시간씩 교대하며 24시간 내내 일하는데도 가동률을 겨우 60%로 유지하고 있습니다. 쿨리지 씨, 당신의 판단이 필요합니다. 여기서 더 무리하면 대재앙급 침수가 발생할 수도 있습니다. - 닉",
-    "reason": "식수보다 심각한 냉각 문제라는 비교를 자연스럽게 하고, 12시간 교대로 24시간 가동한다는 의미를 명확히 함."
+    "id": 1314,
+    "english": "No, no, no! It can't! There's no way!",
+    "before": "안 돼, 안 돼! 그럴 리가! 말도 안 돼!",
+    "after": "안 돼, 안 돼, 안 돼! 그럴 리가! 말도 안 돼!",
+    "reason": "No 3회 중 빠진 1회 복원. 뒤에 다른 문장이 붙는 반복 부정도 전수 확인."
   },
   {
-    "id": 535,
-    "english": "Exhaustive testing across changing states of the material has yielded fascinating results, the full effects of which are still being catalogued. I find myself fascinated by how altering the material’s form produces distinct behaviors. When stretched, it begins to exhibit viscoelastic qualities. Impact testing shows that the material absorbs force momentarily, then releases it with minimal energy loss, producing a consistent rebound effect. In any other configuration of the material, this behavior is not observed. Truly a significant find.",
-    "before": "물질의 여러 상태를 철저히 시험한 결과 흥미로운 결과가 나왔으며, 전체 효과는 아직 기록 중이다. 형태를 바꾸면 서로 다른 특성을 보인다는 점이 특히 흥미롭다. 잡아 늘리면 점탄성이 나타나기 시작한다. 충격 시험에서는 힘을 잠시 흡수했다가 에너지 손실을 거의 일으키지 않고 방출하여 일정한 반발 효과를 보였다. 다른 형태에서는 이러한 특성이 관찰되지 않는다. 실로 중대한 발견이다.",
-    "after": "물질의 여러 상태를 철저히 시험해 흥미로운 결과를 얻었으며, 전체 효과는 아직 기록 중이다. 형태를 바꾸면 서로 다른 특성을 보인다는 점이 특히 흥미롭다. 잡아 늘리면 점탄성이 나타나기 시작한다. 충격 시험에서는 힘을 잠시 흡수했다가 에너지 손실을 거의 일으키지 않고 방출하여 일정한 반발 효과를 보였다. 다른 형태에서는 이러한 특성이 관찰되지 않는다. 실로 중대한 발견이다.",
-    "reason": "연구 보고서에서 결과라는 말이 중복되는 문장 구조를 정리."
+    "id": 1315,
+    "english": "No, they did. They-they they had feathers, right?",
+    "before": "아냐, 있었어. 깃털이... 있었다니까?",
+    "after": "아냐, 있었어. 깃털이... 있었잖아, 그렇지?",
+    "reason": "right?의 확인 질문을 상대의 동의를 구하는 말로 복원."
   },
   {
-    "id": 548,
-    "english": "Family season's passes get a one-time 10% discount during your first visit, so don't miss out on the opportunity to come back and visit us over and over and over again!",
-    "before": "가족 시즌권은 첫 방문 때 한 번에 한해 10% 할인됩니다. 몇 번이고 다시 찾아올 수 있는 기회를 놓치지 마세요!",
-    "after": "가족 시즌권은 첫 방문 때 한 번만 10% 할인됩니다. 몇 번이고 다시 찾아올 수 있는 기회를 놓치지 마세요!",
-    "reason": "one-time의 일회 한정 의미를 명확히 함."
+    "id": 1377,
+    "english": "Oh, no. No no. Not your fault. I-",
+    "before": "아, 아냐. 네 잘못이 아니야. 난...",
+    "after": "아, 아냐. 아냐, 아냐. 네 잘못이 아니야. 난...",
+    "reason": "상대의 잘못이 아니라고 거듭 부정하는 No 3회 중 빠진 2회 복원."
   },
   {
-    "id": 613,
-    "english": "Fraiser,\r\n\r\nYou gotta get transferred to the tall cavern site. Best place I've worked on any rotation here. On a sunny day, sometimes, you can actually see the surface light leak down. Food's better here too. We're super close to the lifts, so it feels like freedom. Sort of? \r\n\r\nMiss ya man,\r\nClark",
-    "before": "프레이저,\r\n\r\n높은 동굴 현장으로 전근 와. 여기서 돌아 본 현장 중 최고야. 맑은 날에는 가끔 지상 햇빛이 스며드는 게 진짜 보여. 음식도 더 낫고. 승강기랑 엄청 가까워서 자유로운 느낌도 나. 뭐, 어느 정도는?\r\n\r\n보고 싶다, 친구.\r\n클라크",
-    "after": "프레이저,\r\n\r\n높은 동굴 현장으로 전근 와. 지금껏 배정받아 일한 현장 중 최고야. 맑은 날에는 가끔 지상 햇빛이 스며드는 게 진짜 보여. 음식도 더 낫고. 승강기랑 엄청 가까워서 자유로운 느낌도 나. 뭐, 어느 정도는?\r\n\r\n보고 싶다, 친구.\r\n클라크",
-    "reason": "근무지 순환 배치를 단순 방문으로 읽을 수 있는 표현을 수정."
+    "id": 1402,
+    "english": "Okay, yeah, yeah, yeah, All right I'm workin' on it.",
+    "before": "알았어, 그래, 그래. 하고 있다고.",
+    "after": "알았어, 그래, 그래, 그래. 하고 있다고.",
+    "reason": "yeah 3회 중 빠진 1회 복원."
   },
   {
-    "id": 627,
-    "english": "George asks, “Is it even legal to sell fossils?” What a great question, George",
-    "before": "조지가 물었습니다. 화석을 파는 건 합법인가요? 아주 좋은 질문이에요, 조지.",
-    "after": "조지가 물었습니다. “화석을 파는 건 합법인가요?” 아주 좋은 질문이에요, 조지.",
-    "reason": "원문의 인용 질문에 따옴표를 복원해 화자 전환을 구분."
+    "id": 1439,
+    "english": "PROJECT PILGRIM\nSITEWIDE MEMO\n\nDo not consume the substance. It has come to the attention of leadership that rumors have been circulating that the anomalous material produces intoxicating or inebriating effects. THAT IS FALSE.\n\nThe substance is not approved for human contact beyond authorized laboratory handling. Consumption in any quantity, by any means, is likely FATAL.\n\nAny suspected ingestion, exposure, or experimental misuse must be reported immediately to Site Command and Medical. Seek medical attention at once.\n\nFailure to comply will result in disciplinary action AND extended quarantine.",
+    "before": "필그림 프로젝트\n전 현장 공지\n\n해당 물질을 섭취하지 말 것. 이상 물질에 취하거나 도취되는 효과가 있다는 소문이 퍼지고 있음을 지휘부에서 파악했다. 이는 사실이 아니다.\n\n허가된 실험실 취급 외에는 이 물질과 인체의 접촉을 승인하지 않는다. 어떤 양이든 어떤 방식이든 섭취 시 사망할 가능성이 높다.\n\n섭취, 노출, 실험 목적의 오용이 의심되면 즉시 현장 지휘부와 의무대에 보고하고 곧바로 진료를 받아라.\n\n불응 시 징계 및 격리 연장 조치를 취한다.",
+    "after": "필그림 프로젝트\n전 현장 공지\n\n해당 물질을 섭취하지 말 것. 이상 물질이 취기나 도취감을 일으킨다는 소문이 퍼지고 있음을 지휘부에서 파악했다. 이는 사실이 아니다.\n\n허가된 실험실 취급 외에는 이 물질과 인체의 접촉을 승인하지 않는다. 어떤 양이든 어떤 방식이든 섭취 시 사망할 가능성이 높다.\n\n섭취, 노출, 실험 목적의 오용이 의심되면 즉시 현장 지휘부와 의무대에 보고하고 곧바로 진료를 받아라.\n\n불응 시 징계 및 격리 연장 조치를 취한다.",
+    "reason": "물질이 취하게 만드는 효과를 어색한 조사 연결 없이 전달."
   },
   {
-    "id": 658,
-    "english": "Gotta go around to go up.",
-    "before": "올라가려면 돌아가야겠네.",
-    "after": "올라가려면 돌아서 가야겠네.",
-    "reason": "go around를 되돌아가기와 혼동하지 않도록 우회 의미 명시."
+    "id": 1531,
+    "english": "Right buddy. Why the whole charade then?",
+    "before": "그렇군, 친구. 그럼 이 난리를 친 이유는 뭐야?",
+    "after": "그렇군, 친구. 그럼 왜 그런 연극을 한 거야?",
+    "reason": "charade의 거짓으로 꾸민 행동이라는 의미를 단순한 난리로 옮긴 부분 수정."
   },
   {
-    "id": 666,
-    "english": "Great. The only person here is a giant creep. ",
-    "before": "좋네. 여기 있는 유일한 사람이 소름 끼치는 거인이라니.",
-    "after": "좋네. 여기 있는 유일한 사람이 정말 소름 끼치는 놈이라니.",
-    "reason": "giant creep의 강조를 신체 크기를 단정하는 거인으로 옮긴 표현 수정. 일본어 번역도 강조 의미로 교차 확인."
+    "id": 1634,
+    "english": "Stegosaurus was not nearly as large as Brontosaurus, averaging around 7.5 meters (or 25 feet) in length",
+    "before": "스테고사우루스는 평균 길이 약 7.5미터, 25피트로 브론토사우루스만큼 크지는 않았어요.",
+    "after": "스테고사우루스는 평균 길이가 약 7.5미터, 25피트로 브론토사우루스보다 훨씬 작았어요.",
+    "reason": "not nearly as large의 큰 크기 차이를 복원하고 길이·단위 보존."
   },
   {
-    "id": 791,
-    "english": "I don't believe that for a moment, at least not from Willy.",
-    "before": "난 전혀 안 믿어. 적어도 윌리가 한 말이라면.",
-    "after": "난 전혀 안 믿어. 적어도 윌리라면 그럴 리 없어.",
-    "reason": "not from Willy를 윌리가 한 말로 한정하던 해석 수정. 일본어 번역의 윌리에 관한 부정도 참고."
+    "id": 1956,
+    "english": "Up to and including unpaid leave.",
+    "before": "최대 무급 정직 처분까지 받을 수 있습니다.",
+    "after": "무급 휴직 처분까지 받을 수 있습니다.",
+    "reason": "unpaid leave를 징계 종류가 다른 정직으로 한정하지 않고 무급 휴직으로 전달."
   },
   {
-    "id": 814,
-    "english": "I got this for him so he could...",
-    "before": "그 애가... 할 수 있도록 이걸 사 줬는데...",
-    "after": "그 애한테 이걸 준 건...",
-    "reason": "got에 없던 구매 단정을 제거하고 뒤의 feel like 문장과 이어지는 도입으로 정리."
+    "id": 2168,
+    "english": "Yeah, yeah, yeah, then what is it, since you’re so smart?",
+    "before": "그래, 그래. 네가 그렇게 똑똑하면 그게 뭔지 말해 봐.",
+    "after": "그래, 그래, 그래. 네가 그렇게 똑똑하면 그게 뭔지 말해 봐.",
+    "reason": "yeah 3회 중 빠진 1회 복원."
   },
   {
-    "id": 840,
-    "english": "I keep thinking that we've hit the bottom of the barrel of bad and there's just...no end to it.",
-    "before": "최악의 바닥까지 왔다고 생각할 때마다... 끝도 없이 더 나빠져.",
-    "after": "이보다 더 나빠질 수는 없다고 생각할 때마다... 끝도 없이 더 나빠져.",
-    "reason": "bottom of the barrel 관용어의 최악이라는 뜻을 자연스럽게 전달."
+    "id": 2234,
+    "english": "as all the different departments stake their claim",
+    "before": "각 부서가 저마다 권한을 주장하면서,",
+    "after": "각 부서가 저마다 자기 몫을 요구하면서,",
+    "reason": "stake their claim을 권한 주장으로 좁히지 않고 각자 몫을 요구한다는 의미로 전달."
   },
   {
-    "id": 861,
-    "english": "I really don't know what to do with myself while I drive.",
-    "before": "운전 중에는 뭘 해야 할지 정말 모르겠네.",
-    "after": "운전하면서도 마음을 어떻게 추슬러야 할지 정말 모르겠네.",
-    "reason": "what to do with myself의 심리적 당혹을 운전 중 할 일을 모른다는 말로 오독하지 않도록 수정. 일본어 번역도 참고."
-  },
-  {
-    "id": 863,
-    "english": "I saw someone dragging a body. I was out taking a leak late one night when I caught movement near the edge of camp. Big figure. Real big with a hunched back. For a second I thought maybe one of the labor boys. We’ve got a few big fellows in the crew. Anyways, there's no mistaking it, there was a corpse in tow. I didn’t move. Didn’t breathe, near enough. Just stood there in the dark. I’ve been turning it over in my head whether to say anything. What would I even tell them? That I saw a giant hauling a corpse in the middle of the night? I stayed by my tent after that and watched the edge of camp. Waited for him to come back. He never did. I watched near all night. Then most of the next day, too. It's like he took the body right off the edge of the cliff.",
-    "before": "누군가 시체를 끌고 가는 걸 봤다. 늦은 밤 소변을 보러 나왔다가 야영지 가장자리에서 움직임을 봤다. 큰 형체였다. 등이 굽은 아주 큰 형체. 처음엔 인부 중 하나인가 했다. 작업반에 덩치 큰 친구가 몇 있으니까. 하지만 분명했다. 시체를 끌고 있었다. 난 움직이지 않았다. 숨도 거의 쉬지 않았다. 그냥 어둠 속에 서 있었다. 이걸 말해야 할지 계속 생각했다. 뭐라고 말하겠는가? 한밤중에 거인이 시체를 나르는 걸 봤다고? 그 뒤에는 텐트 옆에 붙어서 야영지 가장자리를 지켜봤다. 돌아오기를 기다렸지만 끝내 안 왔다. 밤새 지켜봤다. 다음 날도 거의 내내. 마치 시체를 끌고 그대로 절벽 밖으로 사라진 것 같았다.",
-    "after": "누군가 시체를 끌고 가는 걸 봤다. 늦은 밤 소변을 보러 나왔다가 야영지 가장자리에서 움직임을 봤다. 큰 형체였다. 등이 굽은 아주 큰 형체. 처음엔 인부 중 하나인가 했다. 작업반에 덩치 큰 친구가 몇 있으니까. 하지만 분명했다. 시체를 끌고 있었다. 난 움직이지 않았다. 숨도 거의 쉬지 않았다. 그냥 어둠 속에 서 있었다. 이걸 말해야 할지 계속 생각했다. 뭐라고 말하겠는가? 한밤중에 거인이 시체를 나르는 걸 봤다고? 그 뒤에는 텐트 옆에 붙어서 야영지 가장자리를 지켜봤다. 돌아오기를 기다렸지만 끝내 안 왔다. 거의 밤새 지켜봤다. 다음 날도 거의 내내. 마치 시체를 끌고 그대로 절벽 밖으로 사라진 것 같았다.",
-    "reason": "near all night의 거의라는 한정 의미 복원."
-  },
-  {
-    "id": 972,
-    "english": "I...don’t know these sites as well as my own, so you're gonna have to explain what you're seeing.",
-    "before": "내 담당 현장만큼은 이곳을 잘 몰라서... 네가 보는 걸 설명해 줘야 해.",
-    "after": "난... 여긴 내 담당 현장만큼 잘 알지 못해서, 네가 보는 걸 설명해 줘야 해.",
-    "reason": "현장 지식의 비교 대상과 조사 연결을 바로잡음."
-  },
-  {
-    "id": 1026,
-    "english": "It seems these pages spell out the code for the door... it reads: CODE... that's a little odd?",
-    "before": "이 종이들에 문 암호가 적혀 있는 것 같은데... 암호가 CODE ... 좀 이상하네?",
-    "after": "이 종이들에 문 암호가 적혀 있는 것 같은데... 암호는 CODE... 좀 이상하네?",
-    "reason": "암호를 읽는 문장의 조사를 수정하고 CODE 동적 표식은 보존."
-  },
-  {
-    "id": 1062,
-    "english": "It's sorta getting out of hand here...",
-    "before": "여기 상황이 좀 감당이 안 되고 있어...",
-    "after": "여기 상황을 감당하기가 점점 힘들어져...",
-    "reason": "getting out of hand의 악화되는 상황을 자연스러운 대사로 정리."
-  },
-  {
-    "id": 1083,
-    "english": "I’m not the bad guy. I'm just trying to make them feel...well, not comfortable, but certainly better.",
-    "before": "난 나쁜 사람이 아니야. 그냥 사람들이... 편하지는 못해도, 조금은 나아지게 하려는 거야.",
-    "after": "난 나쁜 사람이 아니야. 그냥 사람들을... 편하게는 못 해 줘도, 기분만큼은 나아지게 해 주려는 거야.",
-    "reason": "make them feel better의 감정·기분 의미와 문장 주어·목적어 관계 복원."
-  },
-  {
-    "id": 1088,
-    "english": "I’ve been here long enough to know when our fearless leader is being purposefully kept in the dark.",
-    "before": "여기서 오래 지내다 보니, 누군가 우리의 용감한 지도자에게 일부러 정보를 숨기고 있을 때쯤은 알아챌 수 있어.",
-    "after": "여기서 오래 지내다 보니, 누군가 우리의 용감한 지도자에게 일부러 정보를 숨길 때는 알아챌 수 있어.",
-    "reason": "when의 상황 인지를 근사 시간처럼 옮긴 표현 수정."
-  },
-  {
-    "id": 1096,
-    "english": "Jan 10 1989\n\nTook some samples from the deepest part of our dig site.\n\nI can’t figure out what it is. \n\nIt’s not amber. It’s not fossilized. Dalton's reaction to it gave me sincere pause. He said he wants to show me what he's uncovered in the newer dig sites. He has assured me that I'll understand, but I'm skeptical. He hasn't been himself in some time and it's becoming harder and harder to trust his word on anything, let alone anything to do with new scientific findings. I suppose I'll have to be patient and let him come to me.",
-    "before": "1989년 1월 10일\n\n발굴 현장 가장 깊은 곳에서 표본을 채취했다.\n\n무엇인지 알아낼 수가 없다.\n\n호박도 아니고 화석화된 것도 아니다. 달턴의 반응이 정말 마음에 걸렸다. 새 발굴 현장에서 발견한 것을 보여 주고 싶다고 했다. 보면 이해할 거라 장담했지만 나는 회의적이다. 한동안 평소의 그가 아니었고, 새로운 과학적 발견은커녕 무슨 말이든 점점 믿기 어려워지고 있다. 인내심을 갖고 그가 찾아오기를 기다려야겠다.",
-    "after": "1989년 1월 10일\n\n발굴 현장 가장 깊은 곳에서 표본을 채취했다.\n\n무엇인지 알아낼 수가 없다.\n\n호박도 아니고 화석화된 것도 아니다. 달턴의 반응이 정말 마음에 걸렸다. 새 발굴 현장에서 발견한 것을 보여 주고 싶다고 했다. 보면 이해할 거라 장담했지만 나는 회의적이다. 한동안 평소와 다른 모습을 보였고, 이제는 무슨 말이든 점점 믿기 어렵다. 새로운 과학적 발견에 관한 말은 더더욱 그렇다. 인내심을 갖고 그가 찾아오기를 기다려야겠다.",
-    "reason": "let alone의 강조 방향을 복원해 새로운 과학 발견에 관한 말이 특히 더 믿기 어렵다는 의미 전달."
-  },
-  {
-    "id": 1171,
-    "english": "Like a shadow moving beneath his skin. His eyes were bloodshot. Pupils blown wide.",
-    "before": "피부 밑에서 그림자가 움직이는 것처럼. 눈은 충혈됐고 동공은 크게 벌어져 있었어.",
-    "after": "피부 밑에서 그림자가 움직이는 것처럼. 눈은 충혈됐고 동공은 한껏 커져 있었어.",
-    "reason": "동공 확대를 자연스러운 신체 묘사로 정리."
-  },
-  {
-    "id": 1275,
-    "english": "My guitar's gone. No one’s fessed up. I can’t figure why anyone on the crew would steal it from me. I'm everyone's buddy. And I know for a fact that my playing brought some much needed smiles when we were all feeling low down. Jess sings with me sometimes, too. So I don't know. I didn't lose it, no way I'd lose my granddad's guitar, so what else could have happened other than someone stealing it?",
-    "before": "기타가 사라졌다. 아무도 자백하지 않는다. 작업반 사람이 왜 내 걸 훔치겠는지 모르겠다. 난 모두의 친구인데. 다들 기운 없을 때 내 연주가 꼭 필요한 미소를 줬다는 건 확실하다. 제스도 가끔 같이 노래했고. 그러니 모르겠다. 잃어버린 건 아니다. 할아버지 기타를 내가 잃어버릴 리가 없다. 그럼 도둑맞은 것 말고 무슨 설명이 있지?",
-    "after": "기타가 사라졌다. 아무도 자백하지 않는다. 작업반 사람이 왜 내 걸 훔치겠는지 모르겠다. 난 모두의 친구인데. 다들 기운 없을 때 내 연주가 웃음을 되찾아 줬다는 건 확실하다. 제스도 가끔 같이 노래했고. 그러니 모르겠다. 잃어버린 건 아니다. 할아버지 기타를 내가 잃어버릴 리가 없다. 그럼 도둑맞은 것 말고 무슨 설명이 있지?",
-    "reason": "brought much needed smiles의 위로 효과를 자연스럽게 전달."
-  },
-  {
-    "id": 1313,
-    "english": "No, no no no no no!",
-    "before": "안 돼, 안 돼 안 돼 안 돼 안 돼!",
-    "after": "안 돼, 안 돼 안 돼 안 돼 안 돼 안 돼!",
-    "reason": "원문 No 6회 중 번역에서 빠진 반복 1회 복원. 전체 No 단독 반복 문구도 재검사."
-  },
-  {
-    "id": 1345,
-    "english": "Oh absolutely. I have pulled all the feathers off of many chicken's just to see what they look like underneath. And it's freaky.",
-    "before": "물론이지. 안이 어떻게 생겼는지 보려고 닭 깃털을 여러 번 다 뽑아 봤는데, 진짜 기괴하더라.",
-    "after": "물론이지. 안이 어떻게 생겼는지 보려고 닭 여러 마리의 깃털을 다 뽑아 봤는데, 진짜 기괴하더라.",
-    "reason": "many chickens의 개체 수를 여러 번이라는 행동 횟수로 옮긴 오류 수정."
-  },
-  {
-    "id": 1434,
-    "english": "Our mutual benefactor has run out of patience with the lack of progress in the industrial sites.",
-    "before": "우리 공동 후원자는 산업 현장의 진척 부족에 인내심이 바닥났습니다.",
-    "after": "우리 공동 후원자는 산업 현장의 진척이 더딘 상황을 더는 참지 못하고 있습니다.",
-    "reason": "인내심이 바닥난 주체를 자연스러운 문장 구조로 전달."
-  },
-  {
-    "id": 1450,
-    "english": "Pete:\n\nLeadership says it's Top Priority for the comms relay systems to stay in tip-top shape. Willy really hammered that home in today's meeting. \"Surface and subterranean crews need to be able to speak at a moment's notice\" - I get the importance of it, but the hours we're going to have to pull to keep the uptime at 98% min is going to be brutal. I'll take relays A thru J, you take the rest. Maybe they're worried about more cave-ins? But hey, maybe they'll start to recognize how much they need us. Bonus money? Yeah, probably not, DC's a Scrooge. Whatever, we can dream. Keep in touch.\n\nGood luck, \nTrev",
-    "before": "피트,\n\n윗선에서 통신 중계 시스템을 최상 상태로 유지하는 게 최우선이래. 오늘 회의에서 윌리가 아주 강조했어. 지상과 지하 작업반이 언제든 즉시 대화할 수 있어야 한대. 중요성은 알겠지만, 가동률 최소 98%를 지키려면 근무시간이 끔찍해질 거야. A부터 J까지는 내가 맡을 테니 나머지를 맡아 줘. 추가 붕괴가 걱정되나? 그래도 우리가 얼마나 필요한지 알아줄 수도 있겠지. 보너스? 그래, 그럴 리 없지. DC는 구두쇠니까. 뭐, 꿈은 꿀 수 있잖아. 계속 연락하자.\n\n행운을 빈다.\n트레브",
-    "after": "피트,\n\n윗선에서 통신 중계 시스템을 최상 상태로 유지하는 게 최우선이래. 오늘 회의에서 윌리가 아주 강조했어. 지상과 지하 작업반이 언제든 즉시 대화할 수 있어야 한대. 중요성은 알겠지만, 가동률을 최소 98%로 유지하려면 엄청나게 오래 일해야 할 거야. A부터 J까지는 내가 맡을 테니 나머지를 맡아 줘. 추가 붕괴가 걱정되나? 그래도 우리가 얼마나 필요한지 알아줄 수도 있겠지. 보너스? 그래, 그럴 리 없지. DC는 구두쇠니까. 뭐, 꿈은 꿀 수 있잖아. 계속 연락하자.\n\n행운을 빈다.\n트레브",
-    "reason": "brutal hours의 장시간 근무 의미를 명확히 함. 98% 수치 보존."
-  },
-  {
-    "id": 1491,
-    "english": "RESEARCH REPORT – 7 JULY 1949\nSITE ALPHA\nDR. JONATHAN FELLOWS\n\nCompositional structure remains indeterminate. Samples are unreadable beneath microscopic examination. Surface refracts light in a manner inconsistent with known mineral or organic matter.\n\nMaterial resists nearly every chemical agent introduced. Acids, solvents, and reactive compounds yield no discernible reaction.\n\nStandard classification methods have failed to produce comparative data within any known elements. I am prepared to consider that we may be observing an element or compound not yet documented by modern science. Its behavior suggests a classification outside presently accepted frameworks. Its properties defy all precedent within the current scientific record.",
-    "before": "연구 보고서 - 1949년 7월 7일\n알파 현장\n조너선 펠로스 박사\n\n구성 구조는 여전히 불명이다. 현미경으로 표본을 관찰해도 판독할 수 없다. 표면은 알려진 광물이나 유기물과 일치하지 않는 방식으로 빛을 굴절시킨다.\n\n투입한 거의 모든 화학 약품에 저항한다. 산, 용매, 반응성 화합물 모두 뚜렷한 반응을 일으키지 못했다.\n\n표준 분류법으로는 알려진 어떤 원소와도 비교 자료를 얻지 못했다. 우리는 현대 과학에 기록되지 않은 원소나 화합물을 관찰하고 있을 가능성을 고려해야 한다. 그 거동은 현재 통용되는 체계를 벗어나는 분류를 시사한다. 그 성질은 현 과학 기록의 모든 전례를 거스른다.",
-    "after": "연구 보고서 - 1949년 7월 7일\n알파 현장\n조너선 펠로스 박사\n\n조성 및 구조는 여전히 불명이다. 현미경으로 표본을 관찰해도 판독할 수 없다. 표면은 알려진 광물이나 유기물과 일치하지 않는 방식으로 빛을 굴절시킨다.\n\n투입한 거의 모든 화학 약품에 저항한다. 산, 용매, 반응성 화합물 모두 뚜렷한 반응을 일으키지 못했다.\n\n표준 분류법으로는 알려진 어떤 원소와도 비교할 만한 자료를 얻지 못했다. 우리는 현대 과학에 기록되지 않은 원소나 화합물을 관찰하고 있을 가능성을 고려해야 한다. 그 거동은 현재 통용되는 체계를 벗어나는 분류를 시사한다. 지금까지 기록된 어떤 과학적 사례와도 맞지 않는 성질이다.",
-    "reason": "연구 보고서의 조성·구조 및 비교 자료 표현과 전례를 벗어난다는 결론을 자연스럽게 정리."
-  },
-  {
-    "id": 1502,
-    "english": "Rep some sweet Dalton's Dino Merch!",
-    "before": "멋진 달턴의 공룡 공원 상품으로 뽐내세요!",
-    "after": "멋진 달턴의 공룡 공원 상품을 자랑해 보세요!",
-    "reason": "상품 홍보 문구의 빠진 목적어와 어색한 조사를 수정."
-  },
-  {
-    "id": 1583,
-    "english": "So that's where Elena is.",
-    "before": "그래서 엘레나가 거기 있구나.",
-    "after": "아, 엘레나가 거기 있구나.",
-    "reason": "발견·이해를 나타내는 So를 인과관계로 읽지 않도록 수정."
-  },
-  {
-    "id": 1623,
-    "english": "Spirits have been high while we've been getting set up and acclimated down here. Or well, they were until the kid went missing. Barely 17, enlisted early somehow. How did that slip past the brass? People are saying he had it coming, leaving his post. I really don't know what happened, but a month in and a casualty on a research expedition? Bleak.",
-    "before": "이 아래에서 준비하고 적응하는 동안 사기는 높았다. 아니, 그 애가 실종되기 전까지는 그랬다. 겨우 열일곱인데 어떻게 조기 입대를 했단다. 수뇌부는 그걸 어떻게 놓쳤지? 자리를 이탈했으니 자업자득이라는 말도 돈다. 무슨 일이 있었는지는 모르겠지만, 연구 탐사 한 달 만에 사상자라니. 암담하다.",
-    "after": "이 아래에서 준비하고 적응하는 동안 사기는 높았다. 아니, 그 애가 실종되기 전까지는 그랬다. 겨우 열일곱인데, 어찌 된 일인지 일찍 입대했단다. 수뇌부는 그걸 어떻게 놓쳤지? 자리를 이탈했으니 자업자득이라는 말도 돈다. 무슨 일이 있었는지는 모르겠지만, 연구 탐사 한 달 만에 사상자라니. 암담하다.",
-    "reason": "somehow enlisted early를 자연스러운 서술로 정리."
-  },
-  {
-    "id": 1643,
-    "english": "Stella, I’m already starting to lose signal. So, in case this is the last thing, I’m gonna get DJ. I will.",
-    "before": "스텔라, 벌써 신호가 끊기기 시작해. 혹시 이게 마지막이면, 내가 DJ를 데려올게. 반드시.",
-    "after": "스텔라, 벌써 신호가 끊기기 시작해. 혹시 이게 마지막 연락일까 봐 말하는데, 내가 DJ를 데려올게. 반드시.",
-    "reason": "in case this is the last thing은 구조 약속의 조건이 아니라 마지막 연락에 대비한 발언이라는 의미를 복원."
-  },
-  {
-    "id": 1703,
-    "english": "That'll open up the meteor hole and bingo! That's your access to backstage.",
-    "before": "그러면 운석 구멍이 열려. 됐다! 거기로 무대 뒤에 갈 수 있어.",
-    "after": "그러면 운석 구멍이 열려. 그거야! 거기로 무대 뒤에 들어갈 수 있어.",
-    "reason": "계획 설명 중의 bingo를 이미 작동을 완료한 표현으로 오독하지 않도록 정리."
-  },
-  {
-    "id": 1762,
-    "english": "The reality is, any amount of color down here goes a long way. These caves can get depressing, I'll admit it.",
-    "before": "사실 이런 지하에서는 조금의 색만 있어도 큰 도움이 돼. 이 동굴이 우울해질 수 있다는 건 인정해.",
-    "after": "사실 이런 지하에서는 색채가 조금만 더해져도 큰 도움이 돼. 이 동굴에 있으면 우울해질 수 있다는 건 인정해.",
-    "reason": "동굴 자체가 우울해진다는 직역을 동굴에 있는 사람의 기분으로 수정."
-  },
-  {
-    "id": 1768,
-    "english": "The smaller one is now actively shadowing me, too.",
-    "before": "이제 작은 놈까지 적극적으로 나를 따라다니고 있어.",
-    "after": "이제 작은 놈도 본격적으로 나를 따라다니고 있어.",
-    "reason": "actively shadowing을 추적 상황에 맞는 자연스러운 부사로 정리."
-  },
-  {
-    "id": 1843,
-    "english": "This digsite is my reason to live. Truly.\n\nThis is what we’re calling the Alpha. Biggest Allosaurus we’ve ever seen, and that’s including those freaks from the Allo Pack dig. This thing makes them look like juveniles.\n\nEven DC sees it. The big man’s actually letting this site breathe. Letting the science take priority for once. Either that, or Stella really put the screws to him. I don’t know which, but I’m grateful either way.",
-    "before": "이 발굴 현장은 내 삶의 이유다. 진심으로.\n\n우리는 이걸 알파라고 부른다. 지금껏 본 것 중 가장 큰 알로사우루스다. 알로 무리 발굴 현장의 그 비정상적으로 큰 녀석들까지 포함해서. 이 녀석 옆에서는 걔들도 새끼 같다.\n\nDC도 알아본다. 그 양반이 진짜로 이 현장을 서두르지 않게 둔다. 모처럼 과학을 우선하고 있다. 아니면 스텔라가 제대로 압박했거나. 어느 쪽인지는 모르겠지만 어쨌든 고맙다.",
-    "after": "이 발굴 현장은 내 삶의 이유다. 진심으로.\n\n우리는 이걸 알파라고 부른다. 지금껏 본 것 중 가장 큰 알로사우루스다. 알로 무리 발굴 현장의 그 비정상적으로 큰 녀석들까지 포함해서. 이 녀석 옆에서는 걔들도 새끼 같다.\n\nDC도 알아본다. 그 양반이 진짜로 이 현장에 숨통을 틔워 주고 있다. 모처럼 과학을 우선하고 있다. 아니면 스텔라가 제대로 압박했거나. 어느 쪽인지는 모르겠지만 어쨌든 고맙다.",
-    "reason": "letting this site breathe의 현장에 여유를 준다는 관용적 의미 복원."
-  },
-  {
-    "id": 1865,
-    "english": "This is despite the fact that most personnel do not know the full extent of why we’re here.",
-    "before": "대다수의 인원이 이곳에 온 이유 전체를 모르는 상황인데도 말입니다.",
-    "after": "대다수 인원이 우리가 왜 여기 왔는지 제대로 알지 못하는 상황인데도 말입니다.",
-    "reason": "full extent of why의 이해 범위를 어색한 이유 전체 대신 자연스러운 문장으로 전달."
-  },
-  {
-    "id": 1883,
-    "english": "This place hums. There's a living quality to it. It doesn't feel right. I heard some of the scientists speculate this is a \"ground zero\", whatever that means. Exo-gee-nus (spelled that wrong for sure) mass they say? Impactor fragment? I'm not sure, they say a lot of things, none of it for a high school dropout like me. But I can put one and one together... this is where that substance came from.",
-    "before": "이곳은 웅웅거린다. 살아 있는 느낌이다. 뭔가 이상하다. 과학자 몇 명이 발원지일 거라고 추측하는 걸 들었는데 무슨 뜻인지. 외래성인가 뭔가 하는 질량이라나? 분명 철자는 틀렸겠지. 충돌체 파편? 잘 모르겠다. 온갖 말을 하지만 고등학교도 못 마친 나로서는 알 수 없다. 그래도 하나 더하기 하나는 안다... 그 물질이 여기서 나왔다는 거다.",
-    "after": "이곳은 웅웅거린다. 살아 있는 느낌이다. 뭔가 이상하다. 과학자 몇 명이 발원지일 거라고 추측하는 걸 들었는데 무슨 뜻인지. 외래성인가 뭔가 하는 질량이라나? 분명 철자는 틀렸겠지. 충돌체 파편? 잘 모르겠다. 온갖 말을 하지만 고등학교도 못 마친 나로서는 알 수 없다. 그래도 정황을 맞춰 보면 알 수 있다... 그 물질이 여기서 나왔다는 거다.",
-    "reason": "put one and one together의 정황을 연결해 추론한다는 관용적 의미 복원."
-  },
-  {
-    "id": 1966,
-    "english": "Use the token to unlock the turnstiles in front of the theater",
-    "before": "토큰으로 극장 앞 회전문 열기",
-    "after": "토큰으로 극장 앞 개찰구 열기",
-    "reason": "turnstiles를 회전문 대신 토큰으로 여는 개찰구로 수정."
-  },
-  {
-    "id": 2040,
-    "english": "Well, I managed to stay alive long enough to get to what appears to be my ticket outta here.",
-    "before": "그래, 여기서 나갈 수단처럼 보이는 곳까지는 어떻게든 살아서 왔어.",
-    "after": "그래, 여기서 나갈 수 있을 것 같은 곳까지는 어떻게든 살아서 왔어.",
-    "reason": "ticket outta here의 탈출 수단이라는 비유를 장소에 맞게 자연스럽게 정리."
-  },
-  {
-    "id": 2152,
-    "english": "Woke up to my sergeant firing into the cavern ceiling. Took half the damn squad to wrestle him down and get the rifle off him. He was screaming that he saw eyes up there, watching him from the dark. Sgt. Yancy is the toughest S.O.B. we have in this outfit... survived the war, the Pacific Theatre, no less. But down here, he snaps and blows his stack? That don't add up. Makes me actually believe him. Why's no one willing to listen to the man? He's a goddamn war hero.",
-    "before": "하사님이 동굴 천장에 총을 쏘는 소리에 깼다. 분대 절반이 달려들어서야 제압하고 소총을 빼앗았다. 저 위 어둠 속에서 자기를 지켜보는 눈을 봤다고 소리쳤다. 얀시 하사는 우리 부대에서 가장 강인한 사람이다. 전쟁에서도, 심지어 태평양 전선에서도 살아남았다. 그런 사람이 이 아래서 정신을 놓고 날뛴다고? 말이 안 된다. 오히려 믿음이 간다. 왜 아무도 말을 들어 주려 하지 않지? 빌어먹을 전쟁 영웅이라고.",
-    "after": "하사님이 동굴 천장에 총을 쏘는 소리에 깼다. 분대 절반이 달려들어서야 제압하고 소총을 빼앗았다. 저 위 어둠 속에서 자기를 지켜보는 눈을 봤다고 소리쳤다. 얀시 하사는 우리 부대에서 가장 강인한 사람이다. 전쟁에서도, 심지어 태평양 전선에서도 살아남았다. 그런 사람이 이 아래서 정신을 놓고 날뛴다고? 말이 안 된다. 오히려 믿음이 간다. 왜 아무도 말을 들어 주려 하지 않지? 젠장, 그 사람은 전쟁 영웅이라고.",
-    "reason": "전쟁 영웅을 강조하는 욕설이 영웅 자체를 비난하는 표현으로 읽히지 않도록 수정."
-  },
-  {
-    "id": 2204,
-    "english": "You really think Stella doesn’t have full knowledge of what’s going on in this operation?",
-    "before": "스텔라가 이 사업에서 벌어지는 일을 전부 모른다고 진심으로 생각해?",
-    "after": "스텔라가 이 사업에서 무슨 일이 벌어지는지 다 알고 있을 거란 생각은 안 해 봤어?",
-    "reason": "상대가 스텔라의 인지를 의심하는 상황에 던지는 반문을 명확히 함."
-  },
-  {
-    "id": 2249,
-    "english": "feel like he belonged with the other kids.",
-    "before": "다른 아이들과 어울린다는 느낌을 주고 싶었어.",
-    "after": "다른 아이들과 어울린다는 느낌을 받게 해 주고 싶어서였어.",
-    "reason": "앞의 I got this for him so he could 도입과 연결되는 이유·소속감 표현으로 정리."
-  },
-  {
-    "id": 2501,
-    "english": "Setting to help players adjust the gameplay to suit their individual needs and abilities",
-    "before": "각자의 필요와 플레이 환경에 맞게 게임을 조절할 수 있는 설정입니다.",
-    "after": "각자의 필요와 능력에 맞게 게임 플레이를 조절하는 설정입니다.",
-    "reason": "접근성 안내의 abilities를 플레이 환경으로 바꾸었던 표현을 원문 의미로 복원."
-  },
-  {
-    "id": 2587,
-    "english": "Version 3.27 (C)Copyright Dalton's Dino ",
-    "before": "버전 3.27 (C)Copyright Dalton's Dino ",
-    "after": "버전 3.27 (C)저작권 Dalton's Dino ",
-    "reason": "터미널 화면의 일반 저작권 표기를 번역. 버전·권리자 명칭·끝 공백 보존."
-  },
-  {
-    "id": 2594,
-    "english": "Stuffed animals are optional collectibles, with one hidden at the start of each level. \r\nCarry each one to its pedestal before the end of the level. If you die before placing it, you'll lose it and have to try again. \r\nReturn all four to unlock a hidden post-credits reward.",
-    "before": "동물 인형은 각 레벨 시작 지점에 하나씩 숨겨진 선택 수집품입니다.\r\n레벨이 끝나기 전에 인형을 받침대까지 가져가세요. 내려놓기 전에 죽으면 인형을 잃고 다시 시도해야 합니다.\r\n네 개를 모두 되돌려 놓으면 엔딩 크레딧 뒤의 숨겨진 보상이 열립니다.",
-    "after": "각 레벨 시작 지점에는 선택적으로 수집할 수 있는 동물 인형이 하나씩 숨겨져 있습니다.\r\n레벨이 끝나기 전에 인형을 받침대까지 가져가세요. 받침대에 놓기 전에 죽으면 인형을 잃고 다시 시도해야 합니다.\r\n네 개를 모두 되돌려 놓으면 엔딩 크레딧 뒤의 숨겨진 보상이 열립니다.",
-    "reason": "선택 수집품을 선택적 수집으로 명확히 하고, 사망 시 소실 조건이 받침대 배치 전이라는 점을 복원."
+    "id": 2273,
+    "english": "the allosaurus most certainly will.",
+    "before": "알로사우루스는 분명 그럴 거야.",
+    "after": "알로사우루스한테는 분명 잡히겠지.",
+    "reason": "앞의 If the smaller one doesn’t get me와 연결해 생략된 get me를 한국어에서 명시."
   }
 ]

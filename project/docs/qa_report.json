@@ -6,7 +6,7 @@
   "japanese_input_labels_remaining": 0,
   "errors": [],
   "missing_glyphs": [],
-  "all_non_whitespace_characters_checked": 1052,
+  "all_non_whitespace_characters_checked": 1054,
   "number_notation_reviewed": true,
   "number_changes_requiring_semantic_review": [
     {
@@ -391,15 +391,17 @@
   ],
   "source_index_and_hash_preserved": true,
   "reference_counts_preserved": true,
-  "version": "0.6",
-  "review_round": 4,
+  "version": "0.7",
+  "review_round": 5,
   "full_playthrough_tested": false,
-  "review_scope": "full_korean_proofread_with_source_rechecks",
-  "review_method": "전체 한국어 문구 정독 후 의심 문구 영어 원문 대조. 모호한 일부는 원본 일본어 번역도 참고.",
+  "review_scope": "full_bilingual_comparison",
+  "review_method": "전체 2,606개 문구의 영어 원문과 한국어 번역을 하나씩 대조. 조건·비교·반복 및 연결 문구 추가 확인.",
   "detailed_reviewed_this_round": 2606,
-  "source_rechecked_this_round": 52,
-  "full_text_review_round": 4,
+  "source_rechecked_this_round": 2606,
+  "full_text_review_round": 5,
   "hanja_remaining": 0,
   "japanese_kana_except_retained_emoticon": 0,
-  "pure_negation_repetition_audit": "passed"
+  "pure_negation_repetition_audit": "passed",
+  "connected_conditional_and_comparatives": "passed",
+  "additional_repeated_dialogue_checks": "passed"
 }
