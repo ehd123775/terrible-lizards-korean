@@ -66,10 +66,12 @@ def finish_clean_history(repo):
         target=git(repo,'rev-parse','refs/tags/'+release['tag_name']).decode().strip()
         assert target in clean
         digests={a['name']:a.get('digest') for a in release['assets']}
-        if release['target_commitish']!=target:
-            api('PATCH',f"releases/{release['id']}",{'target_commitish':target})
+        if release['target_commitish'] not in [target,'main']:
+            # Existing tags already pin the version. Use the current branch for
+            # this otherwise-unused field so it contains no obsolete commit ID.
+            api('PATCH',f"releases/{release['id']}",{'target_commitish':'main'})
         after=api('GET',f"releases/{release['id']}")
-        assert after['target_commitish']==target
+        assert after['target_commitish'] in [target,'main']
         assert digests=={a['name']:a.get('digest') for a in after['assets']}
     runs=api('GET','actions/runs?per_page=100')['workflow_runs']
     old=[r['id'] for r in runs if r['head_branch']=='main' and r['head_sha'] not in clean]
