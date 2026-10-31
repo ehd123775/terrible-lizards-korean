@@ -23,6 +23,12 @@ jobs:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
         with:
           persist-credentials: false
+      - name: Prepare reviewed PAK
+        id: prepare
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: python project/build/prepare_pak.py --sync
       - name: Verify and package patch folder
         id: package
         shell: python
@@ -58,6 +64,7 @@ jobs:
           TITLE: ${{ steps.package.outputs.title }}
           ASSET: ${{ steps.package.outputs.asset }}
           PRERELEASE: ${{ steps.package.outputs.prerelease }}
+          TARGET: ${{ steps.prepare.outputs.target }}
         run: |
           set -euo pipefail
           if gh release view "$TAG" >/dev/null 2>&1; then
@@ -68,7 +75,7 @@ jobs:
               gh release edit "$TAG" --title "$TITLE" --notes-file project/RELEASE_NOTES.md --prerelease=false --latest
             fi
           elif [ "$PRERELEASE" = "true" ]; then
-            gh release create "$TAG" "$ASSET" "$ASSET.sha256" --target "$GITHUB_SHA" --title "$TITLE" --notes-file project/RELEASE_NOTES.md --prerelease
+            gh release create "$TAG" "$ASSET" "$ASSET.sha256" --target "$TARGET" --title "$TITLE" --notes-file project/RELEASE_NOTES.md --prerelease
           else
-            gh release create "$TAG" "$ASSET" "$ASSET.sha256" --target "$GITHUB_SHA" --title "$TITLE" --notes-file project/RELEASE_NOTES.md --latest
+            gh release create "$TAG" "$ASSET" "$ASSET.sha256" --target "$TARGET" --title "$TITLE" --notes-file project/RELEASE_NOTES.md --latest
           fi

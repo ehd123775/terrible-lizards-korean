@@ -390,5 +390,8 @@
     }
   ],
   "source_index_and_hash_preserved": true,
-  "reference_counts_preserved": true
+  "reference_counts_preserved": true,
+  "version": "0.4",
+  "review_round": 2,
+  "full_playthrough_tested": false
 }
