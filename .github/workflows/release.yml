@@ -1,0 +1,69 @@
+name: Publish Korean patch release
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - release.json
+      - .github/workflows/release.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: korean-patch-release
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          persist-credentials: false
+      - name: Verify and package patch folder
+        id: package
+        shell: python
+        run: |
+          import hashlib, json, os, re, zipfile
+          from pathlib import Path
+          meta=json.loads(Path('release.json').read_text(encoding='utf-8'))
+          assert re.fullmatch(r'v[0-9]+(?:\.[0-9]+)+(?:-[A-Za-z0-9.]+)?',meta['tag'])
+          assert re.fullmatch(r'TerribleLizards_Korean_v[0-9.]+\.zip',meta['asset'])
+          path='terrible_lizards/Content/Paks/zzz_TerribleLizards_Korean_P.pak'
+          data=Path(path).read_bytes()
+          assert hashlib.sha256(data).hexdigest()==meta['pak_sha256'], 'PAK checksum mismatch'
+          with zipfile.ZipFile(meta['asset'],'w') as z:
+              info=zipfile.ZipInfo(path,date_time=(1980,1,1,0,0,0))
+              info.create_system=3
+              info.external_attr=0o100644<<16
+              info.compress_type=zipfile.ZIP_STORED
+              z.writestr(info,data)
+          with zipfile.ZipFile(meta['asset']) as z:
+              assert z.namelist()==[path] and z.testzip() is None
+          digest=hashlib.sha256(Path(meta['asset']).read_bytes()).hexdigest()
+          Path(meta['asset']+'.sha256').write_text(digest+'  '+meta['asset']+'\n',encoding='ascii')
+          with open(os.environ['GITHUB_OUTPUT'],'a',encoding='utf-8') as f:
+              for key in ['tag','title','asset']:
+                  assert '\n' not in meta[key]
+                  f.write(key+'='+meta[key]+'\n')
+              f.write('prerelease='+str(meta['prerelease']).lower()+'\n')
+      - name: Publish release assets
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          TAG: ${{ steps.package.outputs.tag }}
+          TITLE: ${{ steps.package.outputs.title }}
+          ASSET: ${{ steps.package.outputs.asset }}
+          PRERELEASE: ${{ steps.package.outputs.prerelease }}
+        run: |
+          set -euo pipefail
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            gh release upload "$TAG" "$ASSET" "$ASSET.sha256" --clobber
+          elif [ "$PRERELEASE" = "true" ]; then
+            gh release create "$TAG" "$ASSET" "$ASSET.sha256" --target "$GITHUB_SHA" --title "$TITLE" --notes-file RELEASE_NOTES.md --prerelease
+          else
+            gh release create "$TAG" "$ASSET" "$ASSET.sha256" --target "$GITHUB_SHA" --title "$TITLE" --notes-file RELEASE_NOTES.md --latest
+          fi

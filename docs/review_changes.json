@@ -1,0 +1,338 @@
+[
+  {
+    "id": 21,
+    "english": "...a deep time contamination.",
+    "before": "...심층 시간 오염.",
+    "after": "...태고에서 비롯된 오염."
+  },
+  {
+    "id": 75,
+    "english": "Agh, fine. But be careful! It's zero-one-eight-zero. Do not touch any sticks that appear to be sweating.",
+    "before": "아, 알았어. 하지만 조심해! 공일팔공이야. 땀을 흘리는 것처럼 보이는 다이너마이트는 만지지 마.",
+    "after": "아, 알았어. 하지만 조심해! 암호는 0180이야. 표면에 액체가 배어 나온 다이너마이트는 만지지 마."
+  },
+  {
+    "id": 89,
+    "english": "Ahh, no. Nope. Ugh, come on. No. I'm not answering that. Nope.",
+    "before": "아, 아니. 싫어. 아, 정말. 안 해. 그건 대답 안 할 거야. 싫어.",
+    "after": "아, 아니. 싫어. 아, 정말. 안 받아. 그 전화는 안 받을 거야. 싫어."
+  },
+  {
+    "id": 168,
+    "english": "And with some sort of organic properties.",
+    "before": "어떤 유기체의 성질도 갖고 있고요.",
+    "after": "그리고 일종의 유기물 같은 성질도 있고요."
+  },
+  {
+    "id": 191,
+    "english": "Are-are you okay?",
+    "before": "괘, 괜찮아?",
+    "after": "괜, 괜찮아?"
+  },
+  {
+    "id": 249,
+    "english": "But Dalton, he and some kind of...shadow broker went all in.",
+    "before": "하지만 달턴은 정체 모를... 브로커랑 함께 모든 걸 걸었어.",
+    "after": "하지만 달턴은 정체 모를... 암거래 중개인과 함께 모든 걸 걸었어."
+  },
+  {
+    "id": 259,
+    "english": "But each floodlight needs to be plugged in to the grid from the rafters, can you do that?",
+    "before": "하지만 투광등마다 서까래 쪽 전력망에 연결해야 해. 할 수 있겠어?",
+    "after": "하지만 서까래에 있는 전력망에 투광등을 하나씩 연결해야 해. 할 수 있겠어?"
+  },
+  {
+    "id": 367,
+    "english": "DISPLACEMENT",
+    "before": "이동",
+    "after": "무게로 움직이기"
+  },
+  {
+    "id": 387,
+    "english": "Dalton Jr. Journal Entry: Mama's Gone",
+    "before": "달턴 주니어의 일지: 떠난 엄마",
+    "after": "달턴 주니어의 일지: 집을 비운 엄마"
+  },
+  {
+    "id": 390,
+    "english": "Dalton brought me down to observe the Bronto creature, I don't know if he intended for me to study it.",
+    "before": "달턴이 브론토사우루스 괴물을 관찰하라고 나를 데려왔어요. 연구를 시킬 생각이었는지는 모르겠네요.",
+    "after": "달턴이 브론토사우루스 괴물을 관찰하라고 나를 데려왔어. 연구를 시킬 생각이었는지는 모르겠네."
+  },
+  {
+    "id": 405,
+    "english": "Dalton,\n\nI’m writing this because somehow it is easier than trying to catch you at home lately. I’m heading to New York for a few days for the conference we discussed. You know how much this talk means to me, so I’m going. \n\nI shouldn't have to remind you that Stella is at the U of A for her lab testing for another day or so. DJ is depending on you. Until she gets back, please just keep an eye on him. Don't put him up in the loft space and leave him there for hours. His imagination is getting away with him, and I need him to keep both feet on the ground.\n\nWhen I get back, we need to talk seriously about how things have been. I’m not asking for grand gestures. I’m asking you to look at what is right in front of you before it slips any further out of reach.\n\n-E",
+    "before": "달턴,\n\n요즘은 집에서 당신을 붙잡는 것보다 글로 쓰는 게 차라리 쉬워서 편지를 남겨요. 이야기했던 학회 때문에 며칠 동안 뉴욕에 다녀올게요. 이번 발표가 내게 얼마나 중요한지 알 테니, 꼭 갈 거예요.\n\n스텔라가 애리조나 대학교에서 실험하느라 하루 이틀 더 걸린다는 건 굳이 말 안 해도 알겠죠. DJ는 당신을 의지하고 있어요. 스텔라가 돌아올 때까지 아이 좀 지켜봐 줘요. 다락방에 올려보내 놓고 몇 시간씩 혼자 두지 말고요. 상상이 너무 지나쳐지고 있어서 현실에 발을 붙이게 해 줘야 해요.\n\n돌아오면 요즘 상황에 대해 진지하게 이야기해요. 거창한 걸 바라는 게 아니에요. 바로 눈앞의 것들이 더 멀어지기 전에 한번 봐 달라는 거예요.\n\n-E",
+    "after": "달턴,\n\n요즘은 집에서 당신을 붙잡는 것보다 글로 쓰는 게 차라리 쉬워서 편지를 남겨요. 이야기했던 학회 때문에 며칠 동안 뉴욕에 다녀올게요. 이번 발표가 내게 얼마나 중요한지 알 테니, 꼭 갈 거예요.\n\n스텔라가 U of A 대학에서 실험하느라 하루 이틀 더 걸린다는 건 굳이 말 안 해도 알겠죠. DJ는 당신을 의지하고 있어요. 스텔라가 돌아올 때까지 아이 좀 지켜봐 줘요. 다락방에 올려보내 놓고 몇 시간씩 혼자 두지 말고요. 상상이 너무 지나쳐지고 있어서 현실에 발을 붙이게 해 줘야 해요.\n\n돌아오면 요즘 상황에 대해 진지하게 이야기해요. 거창한 걸 바라는 게 아니에요. 바로 눈앞의 것들이 더 멀어지기 전에 한번 봐 달라는 거예요.\n\n-E"
+  },
+  {
+    "id": 406,
+    "english": "Dalton...he, uh, we, stumbled upon this substance when we kept digging deeper for fossils.",
+    "before": "달턴이... 그러니까 우리가, 화석을 찾아 더 깊이 파다가 이 물질을 우연히 발견했어요.",
+    "after": "달턴이... 그러니까 우리가, 화석을 찾아 더 깊이 파다가 이 물질을 우연히 발견했어."
+  },
+  {
+    "id": 518,
+    "english": "Entire units brought down into the caverns and then sent out into the caves.",
+    "before": "부대 전체가 동굴로 내려온 다음, 더 안쪽 동굴로 파견돼요.",
+    "after": "부대 전체가 동굴로 내려온 다음, 더 안쪽 동굴로 파견됩니다."
+  },
+  {
+    "id": 629,
+    "english": "Get backstage through the asteroid hole!",
+    "before": "소행성 구멍을 통해 무대 뒤로 이동하기!",
+    "after": "운석 구멍을 통해 무대 뒤로 이동하기!"
+  },
+  {
+    "id": 648,
+    "english": "Goo Bounce",
+    "before": "점액 바운스",
+    "after": "점액으로 튕겨 오르기"
+  },
+  {
+    "id": 679,
+    "english": "HEADQUARTERS\nBRAVO COMPANY, 3RD PLATOON\nCAVERN B\n13 APRIL 1951\n\nGENERAL ORDERS\nNUMBER 341\n\n1. A search and rescue operation is hereby ordered for all medical personnel assigned to the Cavern B outpost.\n\n2. An incident has occurred at said outpost. All wireless communication has ceased as of early morning hours. Attempts to establish contact have been unsuccessful. Runners dispatched to the location have failed to return.\n\n3. Personnel will deploy in full battle kit. Exercise extreme vigilance.\n\nBY ORDER OF\nLT. COL. RIDGEWATER\n\nLt. Col. Ridgewater\nCommanding Officer\nProject Pilgrim",
+    "before": "본부\n브라보 중대, 제3소대\nB 동굴\n1951년 4월 13일\n\n일반 명령\n제341호\n\n1. B 동굴 전초기지에 배치된 모든 의료 인원에 대한 수색·구조 작전을 명령한다.\n\n2. 해당 전초기지에서 사건이 발생했다. 이른 새벽부터 모든 무선 통신이 끊겼다. 접촉 시도는 실패했으며 현장에 파견한 전령들도 복귀하지 않았다.\n\n3. 모든 인원은 완전 군장으로 출동한다. 극도의 경계를 유지하라.\n\n리지워터 중령의 명에 의함\n\n리지워터 중령\n지휘관\n필그림 프로젝트",
+    "after": "본부\n브라보 중대, 제3소대\nB 동굴\n1951년 4월 13일\n\n일반 명령\n제341호\n\n1. B 동굴 전초기지에 배치된 모든 의료 인원에 대한 수색·구조 작전을 명령한다.\n\n2. 해당 전초기지에서 사건이 발생했다. 이른 새벽부터 모든 무선 통신이 끊겼다. 접촉 시도는 실패했으며 현장에 파견한 전령들도 복귀하지 않았다.\n\n3. 모든 인원은 완전 군장으로 출동한다. 극도의 경계를 유지하라.\n\n명령권자\n리지워터 중령\n\n리지워터 중령\n지휘관\n필그림 프로젝트"
+  },
+  {
+    "id": 689,
+    "english": "Have a conflict with a fellow Pal?",
+    "before": "동료 친구와 갈등이 생겼나요?",
+    "after": "동료와 갈등이 생겼나요?"
+  },
+  {
+    "id": 1019,
+    "english": "It did collapse the cavern I was in and I, uh... fell into the water and washed away somewhere?",
+    "before": "내가 있던 동굴이 무너졌고, 난... 물에 빠져 어디론가 떠내려왔어.",
+    "after": "녀석이 내가 있던 동굴을 무너뜨렸고, 난... 물에 빠져 어디론가 떠내려왔어."
+  },
+  {
+    "id": 1026,
+    "english": "It seems these pages spell out the code for the door... it reads: CODE... that's a little odd?",
+    "before": "이 종이들에 문 암호가 적혀 있는 것 같은데... CODE ... 좀 이상하네?",
+    "after": "이 종이들에 문 암호가 적혀 있는 것 같은데... 암호가 CODE ... 좀 이상하네?"
+  },
+  {
+    "id": 1030,
+    "english": "It took me. I managed to get away. I kicked it, stunned it I think? Then ran like hell. Barely got a glimpse of it. Tall and muscular, like a massive man with shrink wrapped skin. Massive dagger-like claws. Tore me up pretty bad. No one is listening to me. Saying I went exploring and fell. Calling me a fool. I'm forced to meet with these shrinks night and day. Hell, this journal is by their orders. I'm assuming they are afraid my \"hallucination and subterranean mania\" are contagious. \"Potential for mass hysteria\", if only I could get them to listen. I'd prefer hysteria to the fat lot of nothing that they're doing.",
+    "before": "그것이 나를 잡아갔다. 간신히 도망쳤다. 발로 차서 잠깐 기절시켰나? 그러고는 죽어라 달렸다. 제대로 보지도 못했다. 키가 크고 근육질이었다. 거대한 사람 몸에 피부를 팽팽하게 감싼 것처럼. 단검 같은 거대한 발톱. 덕분에 심하게 찢겼다. 아무도 내 말을 듣지 않는다. 탐험하다 넘어졌다고 한다. 바보 취급한다. 밤낮으로 정신과 의사를 만나야 한다. 젠장, 이 일기도 그들이 시켜서 쓴다. 내 환각과 지하 광증이 전염될까 봐 두려운 모양이다. 집단 히스테리 위험이라나. 제발 말을 좀 들어 주면 좋겠다. 아무것도 안 하는 것보다는 차라리 히스테리가 낫겠다.",
+    "after": "그것이 나를 잡아갔다. 간신히 도망쳤다. 발로 차서 잠깐 기절시켰나? 그러고는 죽어라 달렸다. 제대로 보지도 못했다. 키가 크고 근육질이었다. 거대한 사람 몸에 피부를 팽팽하게 감싼 것처럼. 단검 같은 거대한 발톱에 심하게 찢겼다. 아무도 내 말을 듣지 않는다. 탐험하다 넘어졌다고 한다. 바보 취급한다. 밤낮으로 정신과 의사를 만나야 한다. 젠장, 이 일기도 그들이 시켜서 쓴다. 내 환각과 지하 광증이 전염될까 봐 두려운 모양이다. 집단 히스테리 위험이라나. 제발 말을 좀 들어 주면 좋겠다. 아무것도 안 하는 것보다는 차라리 히스테리가 낫겠다."
+  },
+  {
+    "id": 1051,
+    "english": "It's hunting us. Hunting me. We're so screwed. There's no way we're going to be able to make it out of here. That thing wants us as food. And now it's toying with us. Oh my god, we're... don't let anyone else come down here.",
+    "before": "우릴 사냥하고 있다. 나를 사냥하고 있다. 우린 끝장이다. 여기서 빠져나갈 수는 없다. 그건 우릴 먹이로 원한다. 이젠 가지고 놀기까지 한다. 세상에, 우린... 아무도 더 내려오게 하지 마라.",
+    "after": "우릴 사냥하고 있다. 나를 사냥하고 있다. 우린 끝장이다. 여기서 빠져나갈 수는 없다. 그건 우릴 먹잇감으로 보고 있다. 이젠 가지고 놀기까지 한다. 세상에, 우린... 아무도 더 내려오게 하지 마라."
+  },
+  {
+    "id": 1067,
+    "english": "Its body could act as a giant fulcrum, allowing that tail to come crashing down at alarming speed.",
+    "before": "몸이 거대한 지렛대 역할을 해서, 꼬리를 무시무시한 속도로 내리칠 수 있었죠.",
+    "after": "몸을 거대한 지렛대의 받침점처럼 이용해, 꼬리를 무시무시한 속도로 내리칠 수 있었죠."
+  },
+  {
+    "id": 1088,
+    "english": "I’ve been here long enough to know when our fearless leader is being purposefully kept in the dark.",
+    "before": "오래 있다 보니 우리의 용감한 지도자가 일부러 진실을 전달받지 못하는 상황쯤은 알아챌 수 있어.",
+    "after": "여기서 오래 지내다 보니, 누군가 우리의 용감한 지도자에게 일부러 정보를 숨기고 있을 때쯤은 알아챌 수 있어."
+  },
+  {
+    "id": 1106,
+    "english": "Jordan, be serious. You could kill yourself with that.",
+    "before": "조던, 진지하게 생각해. 그러다 죽을 수도 있어.",
+    "after": "조던, 장난이 아니야. 그러다 죽을 수도 있어."
+  },
+  {
+    "id": 1174,
+    "english": "Limited Time Goo",
+    "before": "기간 한정 점액",
+    "after": "시간제한 점액"
+  },
+  {
+    "id": 1215,
+    "english": "Make your final run. Catch the elevator",
+    "before": "마지막으로 달려라. 엘리베이터를 따라잡기",
+    "after": "마지막 질주로 엘리베이터 따라잡기"
+  },
+  {
+    "id": 1283,
+    "english": "Name Here",
+    "before": "이름 입력",
+    "after": "이름"
+  },
+  {
+    "id": 1292,
+    "english": "Next rotation, I’m not relying on them for food. I’m bringing my own.",
+    "before": "다음 교대 때는 음식 안 믿을 거야. 직접 가져와야지.",
+    "after": "다음 교대 때는 여기서 주는 음식 안 믿을 거야. 직접 가져와야지."
+  },
+  {
+    "id": 1302,
+    "english": "No one is to wander the cave system without express permission.",
+    "before": "명시적인 허가 없이 동굴계를 돌아다녀서는 안 됩니다.",
+    "after": "명시적인 허가 없이 동굴 안을 돌아다녀서는 안 됩니다."
+  },
+  {
+    "id": 1410,
+    "english": "Okay. When she gets back from U of A, we should have a conversation.",
+    "before": "그래. 애리조나 대학교에서 돌아오면 이야기를 해 봐야겠어.",
+    "after": "그래. U of A 대학에서 돌아오면 이야기를 해 봐야겠어."
+  },
+  {
+    "id": 1417,
+    "english": "Once it's measured, it's multiplied by four and you get the approximate hip height.",
+    "before": "측정한 값에 4를 곱하면 대략적인 엉덩이 높이가 나와요.",
+    "after": "측정한 값에 4를 곱하면 대략적인 골반 높이가 나와요."
+  },
+  {
+    "id": 1492,
+    "english": "ROCK SLIDE",
+    "before": "암석 미끄럼틀",
+    "after": "바위 미끄럼 구간"
+  },
+  {
+    "id": 1540,
+    "english": "SWINGING",
+    "before": "봉 매달리기",
+    "after": "봉에 매달려 이동"
+  },
+  {
+    "id": 1599,
+    "english": "Some goo bounce windows are limited. They can be reset, however.",
+    "before": "일부 점액 바운스는 이용 시간이 제한됩니다. 다시 초기화할 수는 있습니다.",
+    "after": "일부 점액은 튕겨 오를 수 있는 시간이 제한됩니다. 초기화해 다시 활성화할 수 있습니다."
+  },
+  {
+    "id": 1602,
+    "english": "Some objects and equipment are influenced by you grabbing or jumping onto",
+    "before": "일부 사물과 장비는 붙잡거나 뛰어오르면 영향을 받습니다.",
+    "after": "일부 사물과 장비는 붙잡거나 그 위에 뛰어오르면 움직입니다."
+  },
+  {
+    "id": 1641,
+    "english": "Stella,\n\nWe did everything you asked. Every containment measure failed. It was like a switch flipped. I don’t know what happened. So many people have died, are still dying. I see people go down, I see where they fall, but they’re taken almost immediately. The shadows pull them away. I’ve managed to stay alive this long, but if you see this, you need to know: these things are highly adaptive and do not react negatively to the lights we set up. Whatever they are, we are out of our depth and I... don't see a way out.\n\nI’m sorry I failed our people down here. I’m sorry I failed you. Make sure Jenny gets my hazard pay and knows that I loved her to the very end.\n\n– W",
+    "before": "스텔라,\n\n당신이 시킨 대로 전부 했어요. 모든 봉쇄 조치가 실패했어요. 마치 스위치가 바뀐 것 같았어요. 무슨 일인지 모르겠어요. 너무 많은 사람이 죽었고, 지금도 죽고 있어요. 사람들이 쓰러지는 걸 보고, 어디에 떨어졌는지도 보지만, 거의 즉시 끌려가요. 그림자들이 데려가요. 여기까지는 살아남았지만, 이 글을 보게 되면 알아 둬요. 저것들은 적응력이 아주 뛰어나고 우리가 설치한 조명에도 악영향을 받지 않아요. 정체가 뭐든 우리는 감당할 수 없고... 탈출구가 보이지 않아요.\n\n이 아래 사람들을 지키지 못해서 미안해요. 당신을 실망시켜서 미안해요. 제니에게 내 위험수당을 전해 주고 끝까지 사랑했다고 알려 줘요.\n\n- W",
+    "after": "스텔라,\n\n당신이 시킨 대로 전부 했어요. 모든 봉쇄 조치가 실패했어요. 스위치라도 켠 듯 순식간에 상황이 돌변했어요. 무슨 일인지 모르겠어요. 너무 많은 사람이 죽었고, 지금도 죽고 있어요. 사람들이 쓰러지는 걸 보고, 어디에 떨어졌는지도 보지만, 거의 즉시 끌려가요. 그림자들이 데려가요. 여기까지는 살아남았지만, 이 글을 보게 되면 알아 둬요. 저것들은 적응력이 아주 뛰어나고 우리가 설치한 조명도 통하지 않아요. 정체가 뭐든 우리는 감당할 수 없고... 탈출구가 보이지 않아요.\n\n이 아래 사람들을 지키지 못해서 미안해요. 당신을 실망시켜서 미안해요. 제니에게 내 위험수당을 전해 주고 끝까지 사랑했다고 알려 줘요.\n\n- W"
+  },
+  {
+    "id": 1650,
+    "english": "Stick to what you know and let the scientists do their work.",
+    "before": "자기가 아는 일을 하고 과학자들은 자기 일을 하게 두세요.",
+    "after": "각자 맡은 일에 집중하고 과학자들이 연구할 수 있게 해 주세요."
+  },
+  {
+    "id": 1668,
+    "english": "Swing",
+    "before": "매달려 흔들기",
+    "after": "매달려 반동 주기"
+  },
+  {
+    "id": 1675,
+    "english": "Tally for Dilo fossils is as follows:\n\nNear complete specimens: 18\nCranial elements (intact): 22\nPartial and associated remains: 64\nIsolated and fragmented material: 9 crates catalogued\n\nCavern's been stripped now. ",
+    "before": "딜로 화석 집계는 다음과 같음:\n\n거의 완전한 표본: 18\n두개골 구성 요소 (온전함): 22\n부분 및 연관 유해: 64\n분리 및 파편 자료: 9상자 기록 완료\n\n현재 동굴 채취 완료.",
+    "after": "딜로 화석 집계는 다음과 같음:\n\n거의 완전한 표본: 18\n두개골 구성 요소 (온전함): 22\n부분 표본 및 연관 화석: 64\n개별 화석 및 파편 자료: 9상자 분류 완료\n\n현재 동굴 내 채취 완료."
+  },
+  {
+    "id": 1731,
+    "english": "The best way to keep you and any DES Pals safe is to stick to approved travel corridors.",
+    "before": "나와 DES 친구들의 안전을 지키는 가장 좋은 방법은 허가된 이동 통로만 이용하는 것입니다.",
+    "after": "여러분과 DES 동료들의 안전을 지키는 가장 좋은 방법은 허가된 이동 통로만 이용하는 것입니다."
+  },
+  {
+    "id": 1746,
+    "english": "The emergency shutoffs. If you are where I think you are, then you'll find them on the ground-level.",
+    "before": "비상 차단 장치야. 내가 생각하는 곳이 맞다면 바닥층에서 찾을 수 있어.",
+    "after": "비상 차단 장치야. 내가 생각하는 곳이 맞다면 동굴 바닥 쪽에서 찾을 수 있어."
+  },
+  {
+    "id": 1757,
+    "english": "The men who come back look haggard and all hollowed out.",
+    "before": "돌아온 사람들은 초췌하고 속이 텅 빈 모습이에요.",
+    "after": "돌아온 사람들은 초췌하고 기력이 쏙 빠진 모습입니다."
+  },
+  {
+    "id": 1781,
+    "english": "Their teeth, much like the Allosaurus, were curved inwards to hook prey.",
+    "before": "알로사우루스처럼 먹잇감을 걸기 위해 이빨이 안쪽으로 굽어 있었어요.",
+    "after": "알로사우루스처럼 먹잇감을 걸어 놓칠 수 없도록 이빨이 안쪽으로 굽어 있었어요."
+  },
+  {
+    "id": 1808,
+    "english": "There’s nothing I can do to escapes its glance. I think it wants me.",
+    "before": "그 시선을 피할 방법이 없어. 나를 원하는 것 같아.",
+    "after": "그 시선을 피할 방법이 없어. 나를 노리는 것 같아."
+  },
+  {
+    "id": 1816,
+    "english": "They can call me Lt. Colonel Ridgewater. Commander Ridgewater will do in a pinch. But “Ridgewater” alone, in front of my men, is not acceptable. These researchers don’t seem to understand that. They speak as though we’re all colleagues at a university luncheon. This is not a campus. It is a command.\n\nA disciplined outfit depends on order, and order depends on respect. If the men see their officers addressed like equals, the lines blur. And when lines blur, discipline crumbles. The civilian crew, at least, seem to grasp that. Most of them wore a uniform once. They know the difference between familiarity and insubordination.",
+    "before": "나를 리지워터 중령이라 부르면 된다. 필요하다면 리지워터 지휘관도 괜찮다. 하지만 부하들 앞에서 성만 부르는 것은 용납할 수 없다. 연구원들은 그걸 이해하지 못하는 듯하다. 대학 오찬의 동료인 양 말한다. 이곳은 대학이 아니라 지휘 체계다.\n\n기강 잡힌 조직은 질서에, 질서는 존중에 달려 있다. 부하들이 장교가 동등한 상대처럼 불리는 걸 보면 경계가 흐려진다. 경계가 흐려지면 기강은 무너진다. 적어도 민간 작업반은 이해하는 듯하다. 대부분 군복을 입어 본 이들이다. 친근함과 항명의 차이를 안다.",
+    "after": "나를 리지워터 중령이라 부르면 된다. 정 안 되면 리지워터 지휘관도 괜찮다. 하지만 부하들 앞에서 성만 부르는 것은 용납할 수 없다. 연구원들은 그걸 이해하지 못하는 듯하다. 대학 오찬의 동료인 양 말한다. 이곳은 대학이 아니라 군 지휘 체계로 운영되는 곳이다.\n\n기강 잡힌 조직은 질서에, 질서는 존중에 달려 있다. 부하들이 장교를 동등한 상대처럼 부르는 모습을 보면 경계가 흐려진다. 경계가 흐려지면 기강은 무너진다. 적어도 민간 작업반은 이해하는 듯하다. 대부분 군복을 입어 본 이들이다. 친근함과 항명의 차이를 안다."
+  },
+  {
+    "id": 1847,
+    "english": "This dynamite can be placed into receptacles for a controlled explosion",
+    "before": "통제된 폭발을 위해 수용부에 설치할 수 있는 다이너마이트.",
+    "after": "통제된 폭발을 위해 전용 거치대에 설치할 수 있는 다이너마이트."
+  },
+  {
+    "id": 1858,
+    "english": "This is Commander Ridgewater, logging an operational update.",
+    "before": "리지워터 지휘관이다. 작전 상황을 갱신한다.",
+    "after": "리지워터 지휘관이다. 최신 작전 상황을 기록한다."
+  },
+  {
+    "id": 1905,
+    "english": "To feed their veracious appetites, the brontosaurus would need quite a bit of food a day to fuel their giant bodies!",
+    "before": "왕성한 식욕과 거대한 몸을 유지하려면 브론토사우루스는 매일 많은 먹이가 필요했어요!",
+    "after": "왕성한 식욕을 채우고 거대한 몸을 움직이려면 브론토사우루스는 매일 많은 먹이가 필요했어요!"
+  },
+  {
+    "id": 1928,
+    "english": "Ugh, I hope that goo will hold him.",
+    "before": "으, 저 점액이 그 사람을 붙잡아 줬으면 좋겠네.",
+    "after": "으, 저 점액이 녀석을 붙잡아 줬으면 좋겠네."
+  },
+  {
+    "id": 2018,
+    "english": "We need-",
+    "before": "우리는...",
+    "after": "우리에겐 필요한 게..."
+  },
+  {
+    "id": 2107,
+    "english": "Where did the word \"dinosaur\" even come from?",
+    "before": "공룡이라는 말은 대체 어디서 나왔을까요?",
+    "after": "공룡을 뜻하는 다이너소어라는 말은 대체 어디서 나왔을까요?"
+  },
+  {
+    "id": 2152,
+    "english": "Woke up to my sergeant firing into the cavern ceiling. Took half the damn squad to wrestle him down and get the rifle off him. He was screaming that he saw eyes up there, watching him from the dark. Sgt. Yancy is the toughest S.O.B. we have in this outfit... survived the war, the Pacific Theatre, no less. But down here, he snaps and blows his stack? That don't add up. Makes me actually believe him. Why's no one willing to listen to the man? He's a goddamn war hero.",
+    "before": "하사님이 동굴 천장에 총을 쏘는 소리에 깼다. 분대 절반이 달려들어서야 제압하고 소총을 빼앗았다. 저 위 어둠 속에서 자기를 지켜보는 눈을 봤다고 소리쳤다. 얀시 하사는 우리 부대에서 가장 강인한 사람이다. 전쟁에서도, 심지어 태평양 전선에서도 살아남았다. 그런 사람이 이 아래서 정신이 나가 폭발했다고? 말이 안 된다. 오히려 믿음이 간다. 왜 아무도 말을 들어 주려 하지 않지? 빌어먹을 전쟁 영웅이라고.",
+    "after": "하사님이 동굴 천장에 총을 쏘는 소리에 깼다. 분대 절반이 달려들어서야 제압하고 소총을 빼앗았다. 저 위 어둠 속에서 자기를 지켜보는 눈을 봤다고 소리쳤다. 얀시 하사는 우리 부대에서 가장 강인한 사람이다. 전쟁에서도, 심지어 태평양 전선에서도 살아남았다. 그런 사람이 이 아래서 정신을 놓고 날뛴다고? 말이 안 된다. 오히려 믿음이 간다. 왜 아무도 말을 들어 주려 하지 않지? 빌어먹을 전쟁 영웅이라고."
+  },
+  {
+    "id": 2201,
+    "english": "You know, they complain about the Dalton's Dino elements down here in the dig sites.",
+    "before": "발굴 현장의 달턴 공룡 공원 요소들에 불평이 많더군.",
+    "after": "이 아래 발굴 현장에 달턴의 공룡 공원 장식을 들여놓는다고 불평이 많더군."
+  },
+  {
+    "id": 2300,
+    "english": "Principal Creature Design",
+    "before": "주요 크리처 디자인",
+    "after": "수석 크리처 디자인"
+  },
+  {
+    "id": 2442,
+    "english": "Japanese",
+    "before": "한국어 (시험 패치)",
+    "after": "한국어"
+  },
+  {
+    "id": 2559,
+    "english": "That's DINO-mite!",
+    "before": "공룡처럼 폭발적으로!",
+    "after": "공룡급으로 끝내줘!"
+  }
+]

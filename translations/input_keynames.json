@@ -1,0 +1,2536 @@
+[
+  {
+    "namespace": "FInputChord",
+    "key": "ModAppender",
+    "source_hash": 1450702627,
+    "english": "+",
+    "korean": "+"
+  },
+  {
+    "namespace": "FInputChord",
+    "key": "KeyName_Alt",
+    "source_hash": 3003826127,
+    "english": "Alt",
+    "korean": "Alt"
+  },
+  {
+    "namespace": "FInputChord",
+    "key": "KeyName_Command",
+    "source_hash": 3280107089,
+    "english": "Cmd",
+    "korean": "Cmd"
+  },
+  {
+    "namespace": "FInputChord",
+    "key": "KeyName_Control",
+    "source_hash": 1405382016,
+    "english": "Ctrl",
+    "korean": "Ctrl"
+  },
+  {
+    "namespace": "FInputChord",
+    "key": "KeyName_Option",
+    "source_hash": 3310680900,
+    "english": "Option",
+    "korean": "Option"
+  },
+  {
+    "namespace": "FInputChord",
+    "key": "KeyName_Shift",
+    "source_hash": 2016544722,
+    "english": "Shift",
+    "korean": "Shift"
+  },
+  {
+    "namespace": "FInputChord",
+    "key": "FourModifiers",
+    "source_hash": 2388234047,
+    "english": "{Mod1}{Appender1}{Mod2}{Appender2}{Mod3}{Appender3}{Mod4}{Appender4}",
+    "korean": "{Mod1}{Appender1}{Mod2}{Appender2}{Mod3}{Appender3}{Mod4}{Appender4}"
+  },
+  {
+    "namespace": "FInputChord",
+    "key": "InputText",
+    "source_hash": 920283304,
+    "english": "{Modifiers}{Key}",
+    "korean": "{Modifiers}{Key}"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Acceleration",
+    "source_hash": 825626478,
+    "english": "Acceleration",
+    "korean": "가속도"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Ampersand",
+    "source_hash": 2708782194,
+    "english": "Ampersand",
+    "korean": "앤드 기호"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "AndroidSubCateogry",
+    "source_hash": 1317601814,
+    "english": "Android",
+    "korean": "Android"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Android_Back",
+    "source_hash": 3877157933,
+    "english": "Android Back",
+    "korean": "Android Back"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Android_Menu",
+    "source_hash": 1094178069,
+    "english": "Android Menu",
+    "korean": "Android Menu"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Android_Volume_Down",
+    "source_hash": 2180899400,
+    "english": "Android Volume Down",
+    "korean": "Android Volume Down"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Android_Volume_Up",
+    "source_hash": 4015876500,
+    "english": "Android Volume Up",
+    "korean": "Android Volume Up"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "AnyKey",
+    "source_hash": 3104585747,
+    "english": "Any Key",
+    "korean": "아무 키"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Apostrophe",
+    "source_hash": 3924354068,
+    "english": "Apostrophe",
+    "korean": "작은따옴표"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Asterix",
+    "source_hash": 920140425,
+    "english": "Asterisk",
+    "korean": "별표"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Backslash",
+    "source_hash": 2356783179,
+    "english": "Backslash",
+    "korean": "역슬래시"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "BackSpace",
+    "source_hash": 1135455467,
+    "english": "Backspace",
+    "korean": "Backspace"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "CapsLockShort",
+    "source_hash": 2367731672,
+    "english": "Caps",
+    "korean": "Caps"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "CapsLock",
+    "source_hash": 1199151605,
+    "english": "Caps Lock",
+    "korean": "Caps Lock"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Caret",
+    "source_hash": 3062557752,
+    "english": "Caret",
+    "korean": "캐럿"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Colon",
+    "source_hash": 3712323394,
+    "english": "Colon",
+    "korean": "쌍점"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Comma",
+    "source_hash": 1554437126,
+    "english": "Comma",
+    "korean": "쉼표"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "DeleteShort",
+    "source_hash": 2706091140,
+    "english": "Del",
+    "korean": "Del"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Delete",
+    "source_hash": 3806680004,
+    "english": "Delete",
+    "korean": "Delete"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Dollar",
+    "source_hash": 3519846658,
+    "english": "Dollar",
+    "korean": "달러 기호"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Down",
+    "source_hash": 828250856,
+    "english": "Down",
+    "korean": "아래쪽 화살표"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "End",
+    "source_hash": 2721109074,
+    "english": "End",
+    "korean": "End"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Enter",
+    "source_hash": 1981148395,
+    "english": "Enter",
+    "korean": "Enter"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Equals",
+    "source_hash": 798842749,
+    "english": "Equals",
+    "korean": "등호"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "EscapeShort",
+    "source_hash": 3629762577,
+    "english": "Esc",
+    "korean": "Esc"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Escape",
+    "source_hash": 243487404,
+    "english": "Escape",
+    "korean": "Escape"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Exclamation",
+    "source_hash": 1598619212,
+    "english": "Exclamation",
+    "korean": "느낌표"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "F1",
+    "source_hash": 3259468743,
+    "english": "F1",
+    "korean": "F1"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "F10",
+    "source_hash": 499613501,
+    "english": "F10",
+    "korean": "F10"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "F11",
+    "source_hash": 2776307800,
+    "english": "F11",
+    "korean": "F11"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "F12",
+    "source_hash": 3083777974,
+    "english": "F12",
+    "korean": "F12"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "F2",
+    "source_hash": 3505529897,
+    "english": "F2",
+    "korean": "F2"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "F3",
+    "source_hash": 1749959500,
+    "english": "F3",
+    "korean": "F3"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "F4",
+    "source_hash": 4120476661,
+    "english": "F4",
+    "korean": "F4"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "F5",
+    "source_hash": 1294277776,
+    "english": "F5",
+    "korean": "F5"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "F6",
+    "source_hash": 1603318654,
+    "english": "F6",
+    "korean": "F6"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "F7",
+    "source_hash": 3878474779,
+    "english": "F7",
+    "korean": "F7"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "F8",
+    "source_hash": 3209675853,
+    "english": "F8",
+    "korean": "F8"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "F9",
+    "source_hash": 133407528,
+    "english": "F9",
+    "korean": "F9"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gesture_Flick",
+    "source_hash": 668301762,
+    "english": "Flick",
+    "korean": "튕기기"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ForwardDelete",
+    "source_hash": 234311757,
+    "english": "Fn+Delete",
+    "korean": "Fn+Delete"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "GamepadSubCategory",
+    "source_hash": 3861595574,
+    "english": "Gamepad",
+    "korean": "컨트롤러"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "XBoxOne_Gamepad_FaceButton_Bottom",
+    "source_hash": 1940504595,
+    "english": "Gamepad A",
+    "korean": "A 버튼"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "XBoxOne_Gamepad_FaceButton_Right",
+    "source_hash": 1629253629,
+    "english": "Gamepad B",
+    "korean": "B 버튼"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "XBoxOne_Gamepad_Special_Left",
+    "source_hash": 367347927,
+    "english": "Gamepad Back",
+    "korean": "보기 버튼"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "PS4_Gamepad_FaceButton_Right",
+    "source_hash": 697749776,
+    "english": "Gamepad Circle",
+    "korean": "Gamepad Circle"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_DPad_Down",
+    "source_hash": 2167383960,
+    "english": "Gamepad D-pad Down",
+    "korean": "방향 패드 아래"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_DPad_Left",
+    "source_hash": 2545833720,
+    "english": "Gamepad D-pad Left",
+    "korean": "방향 패드 왼쪽"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_DPad_Right",
+    "source_hash": 343562957,
+    "english": "Gamepad D-pad Right",
+    "korean": "방향 패드 오른쪽"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_DPad_Up",
+    "source_hash": 2116110123,
+    "english": "Gamepad D-pad Up",
+    "korean": "방향 패드 위"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_FaceButton_Bottom",
+    "source_hash": 798883148,
+    "english": "Gamepad Face Button Bottom",
+    "korean": "아래쪽 전면 버튼"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_FaceButton_Left",
+    "source_hash": 2006335665,
+    "english": "Gamepad Face Button Left",
+    "korean": "왼쪽 전면 버튼"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_FaceButton_Right",
+    "source_hash": 396025450,
+    "english": "Gamepad Face Button Right",
+    "korean": "오른쪽 전면 버튼"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_FaceButton_Top",
+    "source_hash": 2530990084,
+    "english": "Gamepad Face Button Top",
+    "korean": "위쪽 전면 버튼"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "PS4_Gamepad_LeftShoulder",
+    "source_hash": 2535201822,
+    "english": "Gamepad L1",
+    "korean": "Gamepad L1"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "PS4_Gamepad_LeftTrigger",
+    "source_hash": 2242491376,
+    "english": "Gamepad L2",
+    "korean": "Gamepad L2"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "PS4_Gamepad_LeftTriggerAxis",
+    "source_hash": 3974727374,
+    "english": "Gamepad L2 Axis",
+    "korean": "Gamepad L2 Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "PS4_Gamepad_LeftThumbstick",
+    "source_hash": 1024840853,
+    "english": "Gamepad L3",
+    "korean": "Gamepad L3"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_LeftShoulder",
+    "source_hash": 2397385205,
+    "english": "Gamepad Left Shoulder",
+    "korean": "LB"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_Left2D",
+    "source_hash": 585486989,
+    "english": "Gamepad Left Thumbstick 2D-Axis",
+    "korean": "왼쪽 스틱 XY축"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_LeftThumbstick",
+    "source_hash": 3278259945,
+    "english": "Gamepad Left Thumbstick Button",
+    "korean": "왼쪽 스틱 누르기"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_LeftStick_Down",
+    "source_hash": 460404815,
+    "english": "Gamepad Left Thumbstick Down",
+    "korean": "왼쪽 스틱 아래"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_LeftStick_Left",
+    "source_hash": 232835375,
+    "english": "Gamepad Left Thumbstick Left",
+    "korean": "왼쪽 스틱 왼쪽"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_LeftStick_Right",
+    "source_hash": 1834233504,
+    "english": "Gamepad Left Thumbstick Right",
+    "korean": "왼쪽 스틱 오른쪽"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_LeftStick_Up",
+    "source_hash": 327731582,
+    "english": "Gamepad Left Thumbstick Up",
+    "korean": "왼쪽 스틱 위"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_LeftX",
+    "source_hash": 361318229,
+    "english": "Gamepad Left Thumbstick X-Axis",
+    "korean": "왼쪽 스틱 X축"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_LeftY",
+    "source_hash": 2494308978,
+    "english": "Gamepad Left Thumbstick Y-Axis",
+    "korean": "왼쪽 스틱 Y축"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_LeftTrigger",
+    "source_hash": 1863403917,
+    "english": "Gamepad Left Trigger",
+    "korean": "LT"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_LeftTriggerAxis",
+    "source_hash": 992630355,
+    "english": "Gamepad Left Trigger Axis",
+    "korean": "LT 축"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "PS4_Gamepad_Special_Right",
+    "source_hash": 2624241249,
+    "english": "Gamepad Options",
+    "korean": "OPTIONS 버튼"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "PS4_Gamepad_RightShoulder",
+    "source_hash": 4264378119,
+    "english": "Gamepad R1",
+    "korean": "Gamepad R1"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "PS4_Gamepad_RightTrigger",
+    "source_hash": 3969421545,
+    "english": "Gamepad R2",
+    "korean": "Gamepad R2"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "PS4_Gamepad_RightTriggerAxis",
+    "source_hash": 4289049016,
+    "english": "Gamepad R2 Axis",
+    "korean": "Gamepad R2 Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "PS4_Gamepad_RightThumbstick",
+    "source_hash": 1411708812,
+    "english": "Gamepad R3",
+    "korean": "Gamepad R3"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_RightShoulder",
+    "source_hash": 3217139595,
+    "english": "Gamepad Right Shoulder",
+    "korean": "RB"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_Right2D",
+    "source_hash": 1793864195,
+    "english": "Gamepad Right Thumbstick 2D-Axis",
+    "korean": "오른쪽 스틱 XY축"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_RightThumbstick",
+    "source_hash": 2122634805,
+    "english": "Gamepad Right Thumbstick Button",
+    "korean": "오른쪽 스틱 누르기"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_RightStick_Down",
+    "source_hash": 3340079859,
+    "english": "Gamepad Right Thumbstick Down",
+    "korean": "오른쪽 스틱 아래"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_RightStick_Left",
+    "source_hash": 3515114387,
+    "english": "Gamepad Right Thumbstick Left",
+    "korean": "오른쪽 스틱 왼쪽"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_RightStick_Right",
+    "source_hash": 1626027880,
+    "english": "Gamepad Right Thumbstick Right",
+    "korean": "오른쪽 스틱 오른쪽"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_RightStick_Up",
+    "source_hash": 965164698,
+    "english": "Gamepad Right Thumbstick Up",
+    "korean": "오른쪽 스틱 위"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_RightX",
+    "source_hash": 2825639817,
+    "english": "Gamepad Right Thumbstick X-Axis",
+    "korean": "오른쪽 스틱 X축"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_RightY",
+    "source_hash": 693023406,
+    "english": "Gamepad Right Thumbstick Y-Axis",
+    "korean": "오른쪽 스틱 Y축"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_RightTrigger",
+    "source_hash": 1271537669,
+    "english": "Gamepad Right Trigger",
+    "korean": "RT"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_RightTriggerAxis",
+    "source_hash": 3807800206,
+    "english": "Gamepad Right Trigger Axis",
+    "korean": "RT 축"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_Special_Left",
+    "source_hash": 3386831324,
+    "english": "Gamepad Special Left",
+    "korean": "보기 버튼"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_Special_Right",
+    "source_hash": 238239253,
+    "english": "Gamepad Special Right",
+    "korean": "메뉴 버튼"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "PS4_Gamepad_FaceButton_Left",
+    "source_hash": 1393792585,
+    "english": "Gamepad Square",
+    "korean": "Gamepad Square"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "XBoxOne_Gamepad_Special_Right",
+    "source_hash": 3638006201,
+    "english": "Gamepad Start",
+    "korean": "메뉴 버튼"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "PS4_Gamepad_Special_Left",
+    "source_hash": 1067566171,
+    "english": "Gamepad Touchpad Button",
+    "korean": "터치패드 버튼"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "PS4_Gamepad_FaceButton_Top",
+    "source_hash": 2108721637,
+    "english": "Gamepad Triangle",
+    "korean": "Gamepad Triangle"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "PS4_Gamepad_FaceButton_Bottom",
+    "source_hash": 1589172230,
+    "english": "Gamepad X",
+    "korean": "X 버튼"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "XBoxOne_Gamepad_FaceButton_Left",
+    "source_hash": 1589172230,
+    "english": "Gamepad X",
+    "korean": "X 버튼"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "XBoxOne_Gamepad_FaceButton_Top",
+    "source_hash": 3859070819,
+    "english": "Gamepad Y",
+    "korean": "Y 버튼"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "GestureSubCateogry",
+    "source_hash": 3967267353,
+    "english": "Gesture",
+    "korean": "제스처"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Global_Back",
+    "source_hash": 3634054536,
+    "english": "Global Back",
+    "korean": "Global Back"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Global_Menu",
+    "source_hash": 2125737136,
+    "english": "Global Menu",
+    "korean": "Global Menu"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Global_Pause",
+    "source_hash": 265207758,
+    "english": "Global Pause",
+    "korean": "Global Pause"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Global_Play",
+    "source_hash": 2676410354,
+    "english": "Global Play",
+    "korean": "Global Play"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Global_View",
+    "source_hash": 807510223,
+    "english": "Global View",
+    "korean": "Global View"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gravity",
+    "source_hash": 3659416388,
+    "english": "Gravity",
+    "korean": "중력"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ViveSubCategory",
+    "source_hash": 3544634128,
+    "english": "HTC Vive",
+    "korean": "HTC Vive"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Home",
+    "source_hash": 2886099906,
+    "english": "Home",
+    "korean": "Home"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Hyphen",
+    "source_hash": 3533979111,
+    "english": "Hyphen",
+    "korean": "하이픈"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "InsertShort",
+    "source_hash": 1794438901,
+    "english": "Ins",
+    "korean": "Ins"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Insert",
+    "source_hash": 2898161571,
+    "english": "Insert",
+    "korean": "Insert"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "KeyboardSubCategory",
+    "source_hash": 1428727794,
+    "english": "Keyboard",
+    "korean": "키보드"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "LeftMouseButtonShort",
+    "source_hash": 3443096468,
+    "english": "LMB",
+    "korean": "마우스 왼쪽"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Left",
+    "source_hash": 667937672,
+    "english": "Left",
+    "korean": "왼쪽 화살표"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "LeftAlt",
+    "source_hash": 2494286301,
+    "english": "Left Alt",
+    "korean": "왼쪽 Alt"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "LeftBracket",
+    "source_hash": 3078025232,
+    "english": "Left Bracket",
+    "korean": "왼쪽 대괄호"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "LeftCommand",
+    "source_hash": 3827499075,
+    "english": "Left Cmd",
+    "korean": "왼쪽 Cmd"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "LeftControl",
+    "source_hash": 3955154613,
+    "english": "Left Ctrl",
+    "korean": "왼쪽 Ctrl"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "LeftMouseButton",
+    "source_hash": 116878327,
+    "english": "Left Mouse Button",
+    "korean": "마우스 왼쪽 버튼"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "LeftParantheses",
+    "source_hash": 1231295788,
+    "english": "Left Parantheses",
+    "korean": "왼쪽 소괄호"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "LeftShift",
+    "source_hash": 1756751306,
+    "english": "Left Shift",
+    "korean": "왼쪽 Shift"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MiddleMouseButton",
+    "source_hash": 2402132827,
+    "english": "Middle Mouse Button",
+    "korean": "마우스 가운데 버튼"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Left_Grip_Click",
+    "source_hash": 3146441312,
+    "english": "Mixed Reality (L) Grip",
+    "korean": "Mixed Reality (L) Grip"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Left_Menu_Click",
+    "source_hash": 178431252,
+    "english": "Mixed Reality (L) Menu",
+    "korean": "Mixed Reality (L) Menu"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Left_Thumbstick_2D",
+    "source_hash": 1904746352,
+    "english": "Mixed Reality (L) Thumbstick 2D-Axis",
+    "korean": "Mixed Reality (L) Thumbstick 2D-Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Left_Thumbstick_Click",
+    "source_hash": 2572443449,
+    "english": "Mixed Reality (L) Thumbstick Button",
+    "korean": "Mixed Reality (L) Thumbstick Button"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Left_Thumbstick_Down",
+    "source_hash": 1321067752,
+    "english": "Mixed Reality (L) Thumbstick Down",
+    "korean": "Mixed Reality (L) Thumbstick Down"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Left_Thumbstick_Left",
+    "source_hash": 1479284104,
+    "english": "Mixed Reality (L) Thumbstick Left",
+    "korean": "Mixed Reality (L) Thumbstick Left"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Left_Thumbstick_Right",
+    "source_hash": 1161166449,
+    "english": "Mixed Reality (L) Thumbstick Right",
+    "korean": "Mixed Reality (L) Thumbstick Right"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Left_Thumbstick_Up",
+    "source_hash": 2135428134,
+    "english": "Mixed Reality (L) Thumbstick Up",
+    "korean": "Mixed Reality (L) Thumbstick Up"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Left_Thumbstick_X",
+    "source_hash": 1337679493,
+    "english": "Mixed Reality (L) Thumbstick X-Axis",
+    "korean": "Mixed Reality (L) Thumbstick X-Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Left_Thumbstick_Y",
+    "source_hash": 3466476450,
+    "english": "Mixed Reality (L) Thumbstick Y-Axis",
+    "korean": "Mixed Reality (L) Thumbstick Y-Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Left_Trackpad_2D",
+    "source_hash": 2140851262,
+    "english": "Mixed Reality (L) Trackpad 2D-Axis",
+    "korean": "Mixed Reality (L) Trackpad 2D-Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Left_Trackpad_Click",
+    "source_hash": 3436959568,
+    "english": "Mixed Reality (L) Trackpad Button",
+    "korean": "Mixed Reality (L) Trackpad Button"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Left_Trackpad_Down",
+    "source_hash": 1470699295,
+    "english": "Mixed Reality (L) Trackpad Down",
+    "korean": "Mixed Reality (L) Trackpad Down"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Left_Trackpad_Left",
+    "source_hash": 1094248063,
+    "english": "Mixed Reality (L) Trackpad Left",
+    "korean": "Mixed Reality (L) Trackpad Left"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Left_Trackpad_Right",
+    "source_hash": 2747490931,
+    "english": "Mixed Reality (L) Trackpad Right",
+    "korean": "Mixed Reality (L) Trackpad Right"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Left_Trackpad_Touch",
+    "source_hash": 3556184400,
+    "english": "Mixed Reality (L) Trackpad Touch",
+    "korean": "Mixed Reality (L) Trackpad Touch"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Left_Trackpad_Up",
+    "source_hash": 3875681299,
+    "english": "Mixed Reality (L) Trackpad Up",
+    "korean": "Mixed Reality (L) Trackpad Up"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Left_Trackpad_X",
+    "source_hash": 13377613,
+    "english": "Mixed Reality (L) Trackpad X",
+    "korean": "Mixed Reality (L) Trackpad X"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Left_Trackpad_Y",
+    "source_hash": 3094365992,
+    "english": "Mixed Reality (L) Trackpad Y",
+    "korean": "Mixed Reality (L) Trackpad Y"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Left_Trigger_Click",
+    "source_hash": 274736346,
+    "english": "Mixed Reality (L) Trigger",
+    "korean": "Mixed Reality (L) Trigger"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Left_Trigger_Axis",
+    "source_hash": 3623563007,
+    "english": "Mixed Reality (L) Trigger Axis",
+    "korean": "Mixed Reality (L) Trigger Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Right_Grip_Click",
+    "source_hash": 2831602966,
+    "english": "Mixed Reality (R) Grip",
+    "korean": "Mixed Reality (R) Grip"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Right_Menu_Click",
+    "source_hash": 435065442,
+    "english": "Mixed Reality (R) Menu",
+    "korean": "Mixed Reality (R) Menu"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Right_Thumbstick_2D",
+    "source_hash": 1796458527,
+    "english": "Mixed Reality (R) Thumbstick 2D-Axis",
+    "korean": "Mixed Reality (R) Thumbstick 2D-Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Right_Thumbstick_Click",
+    "source_hash": 699484414,
+    "english": "Mixed Reality (R) Thumbstick Button",
+    "korean": "Mixed Reality (R) Thumbstick Button"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Right_Thumbstick_Down",
+    "source_hash": 2356318395,
+    "english": "Mixed Reality (R) Thumbstick Down",
+    "korean": "Mixed Reality (R) Thumbstick Down"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Right_Thumbstick_Left",
+    "source_hash": 2598592987,
+    "english": "Mixed Reality (R) Thumbstick Left",
+    "korean": "Mixed Reality (R) Thumbstick Left"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Right_Thumbstick_Right",
+    "source_hash": 4135450284,
+    "english": "Mixed Reality (R) Thumbstick Right",
+    "korean": "Mixed Reality (R) Thumbstick Right"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Right_Thumbstick_Up",
+    "source_hash": 3623117033,
+    "english": "Mixed Reality (R) Thumbstick Up",
+    "korean": "Mixed Reality (R) Thumbstick Up"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Right_Thumbstick_X",
+    "source_hash": 4284369218,
+    "english": "Mixed Reality (R) Thumbstick X-Axis",
+    "korean": "Mixed Reality (R) Thumbstick X-Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Right_Thumbstick_Y",
+    "source_hash": 2122001509,
+    "english": "Mixed Reality (R) Thumbstick Y-Axis",
+    "korean": "Mixed Reality (R) Thumbstick Y-Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Right_Trackpad_2D",
+    "source_hash": 3436365027,
+    "english": "Mixed Reality (R) Trackpad 2D-Axis",
+    "korean": "Mixed Reality (R) Trackpad 2D-Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Right_Trackpad_Click",
+    "source_hash": 236233475,
+    "english": "Mixed Reality (R) Trackpad Button",
+    "korean": "Mixed Reality (R) Trackpad Button"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Right_Trackpad_Down",
+    "source_hash": 4279598032,
+    "english": "Mixed Reality (R) Trackpad Down",
+    "korean": "Mixed Reality (R) Trackpad Down"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Right_Trackpad_Left",
+    "source_hash": 3917777584,
+    "english": "Mixed Reality (R) Trackpad Left",
+    "korean": "Mixed Reality (R) Trackpad Left"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Right_Trackpad_Right",
+    "source_hash": 1549624329,
+    "english": "Mixed Reality (R) Trackpad Right",
+    "korean": "Mixed Reality (R) Trackpad Right"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Right_Trackpad_Touch",
+    "source_hash": 745084714,
+    "english": "Mixed Reality (R) Trackpad Touch",
+    "korean": "Mixed Reality (R) Trackpad Touch"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Right_Trackpad_Up",
+    "source_hash": 1156905320,
+    "english": "Mixed Reality (R) Trackpad Up",
+    "korean": "Mixed Reality (R) Trackpad Up"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Right_Trackpad_X",
+    "source_hash": 2112363869,
+    "english": "Mixed Reality (R) Trackpad X",
+    "korean": "Mixed Reality (R) Trackpad X"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Right_Trackpad_Y",
+    "source_hash": 3310647864,
+    "english": "Mixed Reality (R) Trackpad Y",
+    "korean": "Mixed Reality (R) Trackpad Y"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Right_Trigger_Click",
+    "source_hash": 3415066571,
+    "english": "Mixed Reality (R) Trigger",
+    "korean": "Mixed Reality (R) Trigger"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedReality_Right_Trigger_Axis",
+    "source_hash": 4287346712,
+    "english": "Mixed Reality (R) Trigger Axis",
+    "korean": "Mixed Reality (R) Trigger Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MotionSubCateogry",
+    "source_hash": 2151083087,
+    "english": "Motion",
+    "korean": "움직임"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MouseSubCategory",
+    "source_hash": 2837033005,
+    "english": "Mouse",
+    "korean": "마우스"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MouseWheelAxis",
+    "source_hash": 1089412173,
+    "english": "Mouse Wheel Axis",
+    "korean": "마우스 휠 축"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MouseScrollDown",
+    "source_hash": 2306107763,
+    "english": "Mouse Wheel Down",
+    "korean": "마우스 휠 아래"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MouseScrollUp",
+    "source_hash": 2214163181,
+    "english": "Mouse Wheel Up",
+    "korean": "마우스 휠 위"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MouseX",
+    "source_hash": 2298809569,
+    "english": "Mouse X",
+    "korean": "마우스 X"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Mouse2D",
+    "source_hash": 2968854363,
+    "english": "Mouse XY 2D-Axis",
+    "korean": "마우스 XY 축"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MouseY",
+    "source_hash": 834235268,
+    "english": "Mouse Y",
+    "korean": "마우스 Y"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Multiply",
+    "source_hash": 116284953,
+    "english": "Num *",
+    "korean": "Num *"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Add",
+    "source_hash": 3193059708,
+    "english": "Num +",
+    "korean": "Num +"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Subtract",
+    "source_hash": 2604230304,
+    "english": "Num -",
+    "korean": "Num -"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Decimal",
+    "source_hash": 2307705166,
+    "english": "Num .",
+    "korean": "Num ."
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Divide",
+    "source_hash": 825273899,
+    "english": "Num /",
+    "korean": "Num /"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "NumPadZero",
+    "source_hash": 961210850,
+    "english": "Num 0",
+    "korean": "Num 0"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "NumPadOne",
+    "source_hash": 2180419207,
+    "english": "Num 1",
+    "korean": "Num 1"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "NumPadTwo",
+    "source_hash": 2470650217,
+    "english": "Num 2",
+    "korean": "Num 2"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "NumPadThree",
+    "source_hash": 738149900,
+    "english": "Num 3",
+    "korean": "Num 3"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "NumPadFour",
+    "source_hash": 3056107189,
+    "english": "Num 4",
+    "korean": "Num 4"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "NumPadFive",
+    "source_hash": 244586960,
+    "english": "Num 5",
+    "korean": "Num 5"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "NumPadSix",
+    "source_hash": 471971390,
+    "english": "Num 6",
+    "korean": "Num 6"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "NumPadSeven",
+    "source_hash": 2761806171,
+    "english": "Num 7",
+    "korean": "Num 7"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "NumPadEight",
+    "source_hash": 4244553997,
+    "english": "Num 8",
+    "korean": "Num 8"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "NumPadNine",
+    "source_hash": 1145218664,
+    "english": "Num 9",
+    "korean": "Num 9"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "NumLock",
+    "source_hash": 415785768,
+    "english": "Num Lock",
+    "korean": "Num Lock"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouchSubCategory",
+    "source_hash": 1228939168,
+    "english": "Oculus Touch",
+    "korean": "Oculus Touch"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouch_Left_Grip_Click",
+    "source_hash": 557845362,
+    "english": "Oculus Touch (L) Grip",
+    "korean": "Oculus Touch (L) Grip"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouch_Left_Grip_Axis",
+    "source_hash": 3173306436,
+    "english": "Oculus Touch (L) Grip Axis",
+    "korean": "Oculus Touch (L) Grip Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouch_Left_Menu_Click",
+    "source_hash": 2422754310,
+    "english": "Oculus Touch (L) Menu",
+    "korean": "Oculus Touch (L) Menu"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouch_Left_Thumbstick_2D",
+    "source_hash": 2262942280,
+    "english": "Oculus Touch (L) Thumbstick 2D-Axis",
+    "korean": "Oculus Touch (L) Thumbstick 2D-Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouch_Left_Thumbstick_Click",
+    "source_hash": 1191816736,
+    "english": "Oculus Touch (L) Thumbstick Button",
+    "korean": "Oculus Touch (L) Thumbstick Button"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouch_Left_Thumbstick_Down",
+    "source_hash": 1593122200,
+    "english": "Oculus Touch (L) Thumbstick Down",
+    "korean": "Oculus Touch (L) Thumbstick Down"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouch_Left_Thumbstick_Left",
+    "source_hash": 1214573816,
+    "english": "Oculus Touch (L) Thumbstick Left",
+    "korean": "Oculus Touch (L) Thumbstick Left"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouch_Left_Thumbstick_Right",
+    "source_hash": 2970141659,
+    "english": "Oculus Touch (L) Thumbstick Right",
+    "korean": "Oculus Touch (L) Thumbstick Right"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouch_Left_Thumbstick_Touch",
+    "source_hash": 3241980152,
+    "english": "Oculus Touch (L) Thumbstick Touch",
+    "korean": "Oculus Touch (L) Thumbstick Touch"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouch_Left_Thumbstick_Up",
+    "source_hash": 1966596524,
+    "english": "Oculus Touch (L) Thumbstick Up",
+    "korean": "Oculus Touch (L) Thumbstick Up"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouch_Left_Thumbstick_X",
+    "source_hash": 2447814556,
+    "english": "Oculus Touch (L) Thumbstick X-Axis",
+    "korean": "Oculus Touch (L) Thumbstick X-Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouch_Left_Thumbstick_Y",
+    "source_hash": 281266875,
+    "english": "Oculus Touch (L) Thumbstick Y-Axis",
+    "korean": "Oculus Touch (L) Thumbstick Y-Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouch_Left_Trigger_Click",
+    "source_hash": 2619186259,
+    "english": "Oculus Touch (L) Trigger",
+    "korean": "Oculus Touch (L) Trigger"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouch_Left_Trigger_Axis",
+    "source_hash": 4153930742,
+    "english": "Oculus Touch (L) Trigger Axis",
+    "korean": "Oculus Touch (L) Trigger Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouch_Left_Trigger_Touch",
+    "source_hash": 1941689319,
+    "english": "Oculus Touch (L) Trigger Touch",
+    "korean": "Oculus Touch (L) Trigger Touch"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouch_Left_X_Click",
+    "source_hash": 1732443468,
+    "english": "Oculus Touch (L) X Press",
+    "korean": "Oculus Touch (L) X Press"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouch_Left_X_Touch",
+    "source_hash": 830039707,
+    "english": "Oculus Touch (L) X Touch",
+    "korean": "Oculus Touch (L) X Touch"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouch_Left_Y_Click",
+    "source_hash": 1727463505,
+    "english": "Oculus Touch (L) Y Press",
+    "korean": "Oculus Touch (L) Y Press"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouch_Left_Y_Touch",
+    "source_hash": 818715526,
+    "english": "Oculus Touch (L) Y Touch",
+    "korean": "Oculus Touch (L) Y Touch"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouch_Right_A_Click",
+    "source_hash": 2884295288,
+    "english": "Oculus Touch (R) A Press",
+    "korean": "Oculus Touch (R) A Press"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouch_Right_A_Touch",
+    "source_hash": 4258349487,
+    "english": "Oculus Touch (R) A Touch",
+    "korean": "Oculus Touch (R) A Touch"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouch_Right_B_Click",
+    "source_hash": 2838814047,
+    "english": "Oculus Touch (R) B Press",
+    "korean": "Oculus Touch (R) B Press"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouch_Right_B_Touch",
+    "source_hash": 4279191176,
+    "english": "Oculus Touch (R) B Touch",
+    "korean": "Oculus Touch (R) B Touch"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouch_Right_Grip_Click",
+    "source_hash": 839662596,
+    "english": "Oculus Touch (R) Grip",
+    "korean": "Oculus Touch (R) Grip"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouch_Right_Grip_Axis",
+    "source_hash": 1803688815,
+    "english": "Oculus Touch (R) Grip Axis",
+    "korean": "Oculus Touch (R) Grip Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouch_Right_System_Click",
+    "source_hash": 1178759678,
+    "english": "Oculus Touch (R) System",
+    "korean": "Oculus Touch (R) System"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouch_Right_Thumbstick_2D",
+    "source_hash": 2625246503,
+    "english": "Oculus Touch (R) Thumbstick 2D-Axis",
+    "korean": "Oculus Touch (R) Thumbstick 2D-Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouch_Right_Thumbstick_Click",
+    "source_hash": 4159486439,
+    "english": "Oculus Touch (R) Thumbstick Button",
+    "korean": "Oculus Touch (R) Thumbstick Button"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouch_Right_Thumbstick_Down",
+    "source_hash": 2621073867,
+    "english": "Oculus Touch (R) Thumbstick Down",
+    "korean": "Oculus Touch (R) Thumbstick Down"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouch_Right_Thumbstick_Left",
+    "source_hash": 2326501547,
+    "english": "Oculus Touch (R) Thumbstick Left",
+    "korean": "Oculus Touch (R) Thumbstick Left"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouch_Right_Thumbstick_Right",
+    "source_hash": 37800710,
+    "english": "Oculus Touch (R) Thumbstick Right",
+    "korean": "Oculus Touch (R) Thumbstick Right"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouch_Right_Thumbstick_Touch",
+    "source_hash": 1920251941,
+    "english": "Oculus Touch (R) Thumbstick Touch",
+    "korean": "Oculus Touch (R) Thumbstick Touch"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouch_Right_Thumbstick_Up",
+    "source_hash": 3716910435,
+    "english": "Oculus Touch (R) Thumbstick Up",
+    "korean": "Oculus Touch (R) Thumbstick Up"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouch_Right_Thumbstick_X",
+    "source_hash": 553891931,
+    "english": "Oculus Touch (R) Thumbstick X-Axis",
+    "korean": "Oculus Touch (R) Thumbstick X-Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouch_Right_Thumbstick_Y",
+    "source_hash": 2686901628,
+    "english": "Oculus Touch (R) Thumbstick Y-Axis",
+    "korean": "Oculus Touch (R) Thumbstick Y-Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouch_Right_Trigger_Click",
+    "source_hash": 1206943554,
+    "english": "Oculus Touch (R) Trigger",
+    "korean": "Oculus Touch (R) Trigger"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouch_Right_Trigger_Axis",
+    "source_hash": 3756483857,
+    "english": "Oculus Touch (R) Trigger Axis",
+    "korean": "Oculus Touch (R) Trigger Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "OculusTouch_Right_Trigger_Touch",
+    "source_hash": 3674717992,
+    "english": "Oculus Touch (R) Trigger Touch",
+    "korean": "Oculus Touch (R) Trigger Touch"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "PS4_Special",
+    "source_hash": 1439858708,
+    "english": "PS4_Special_DEPRECATED",
+    "korean": "PS4_Special_DEPRECATED"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "PageDown",
+    "source_hash": 2934234901,
+    "english": "Page Down",
+    "korean": "Page Down"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "PageUp",
+    "source_hash": 1290731592,
+    "english": "Page Up",
+    "korean": "Page Up"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Pause",
+    "source_hash": 3742165774,
+    "english": "Pause",
+    "korean": "Pause"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Period",
+    "source_hash": 2924117258,
+    "english": "Period",
+    "korean": "마침표"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "PageDownShort",
+    "source_hash": 235293329,
+    "english": "PgDn",
+    "korean": "PgDn"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "PageUpShort",
+    "source_hash": 248601480,
+    "english": "PgUp",
+    "korean": "PgUp"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gesture_Pinch",
+    "source_hash": 1598346309,
+    "english": "Pinch",
+    "korean": "오므리기"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Quote",
+    "source_hash": 1687662293,
+    "english": "Quote",
+    "korean": "따옴표"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "RightMouseButtonShort",
+    "source_hash": 672154998,
+    "english": "RMB",
+    "korean": "마우스 오른쪽"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Right",
+    "source_hash": 1334209577,
+    "english": "Right",
+    "korean": "오른쪽 화살표"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "RightAlt",
+    "source_hash": 530067686,
+    "english": "Right Alt",
+    "korean": "오른쪽 Alt"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "RightBracket",
+    "source_hash": 2986891501,
+    "english": "Right Bracket",
+    "korean": "오른쪽 대괄호"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "RightCommand",
+    "source_hash": 1863383416,
+    "english": "Right Cmd",
+    "korean": "오른쪽 Cmd"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "RightControl",
+    "source_hash": 4169193170,
+    "english": "Right Ctrl",
+    "korean": "오른쪽 Ctrl"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "RightMouseButton",
+    "source_hash": 2236264386,
+    "english": "Right Mouse Button",
+    "korean": "마우스 오른쪽 버튼"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "RightParantheses",
+    "source_hash": 4138032876,
+    "english": "Right Parantheses",
+    "korean": "오른쪽 소괄호"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "RightShift",
+    "source_hash": 86778219,
+    "english": "Right Shift",
+    "korean": "오른쪽 Shift"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gesture_Rotate",
+    "source_hash": 3969139769,
+    "english": "Rotate",
+    "korean": "회전"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "RotationRate",
+    "source_hash": 2032555635,
+    "english": "Rotation Rate",
+    "korean": "회전 속도"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ScrollLock",
+    "source_hash": 2745101019,
+    "english": "Scroll Lock",
+    "korean": "Scroll Lock"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Semicolon",
+    "source_hash": 20204416,
+    "english": "Semicolon",
+    "korean": "세미콜론"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Slash",
+    "source_hash": 2224810691,
+    "english": "Slash",
+    "korean": "슬래시"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "SpaceBarShort",
+    "source_hash": 1263529571,
+    "english": "Space",
+    "korean": "스페이스"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "SpaceBar",
+    "source_hash": 1182869538,
+    "english": "Space Bar",
+    "korean": "스페이스 바"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "SpecialGamepadSubCategory",
+    "source_hash": 1672877782,
+    "english": "SpecialGamepad",
+    "korean": "특수 컨트롤러"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "SteamSubCateogry",
+    "source_hash": 468301321,
+    "english": "Steam",
+    "korean": "Steam"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Steam_Back_Left",
+    "source_hash": 3193385553,
+    "english": "Steam Back Left",
+    "korean": "Steam Back Left"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Steam_Back_Right",
+    "source_hash": 2798239607,
+    "english": "Steam Back Right",
+    "korean": "Steam Back Right"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Steam_Touch_0",
+    "source_hash": 962512958,
+    "english": "Steam Touch 0",
+    "korean": "Steam Touch 0"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Steam_Touch_1",
+    "source_hash": 2179116891,
+    "english": "Steam Touch 1",
+    "korean": "Steam Touch 1"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Steam_Touch_2",
+    "source_hash": 2471952565,
+    "english": "Steam Touch 2",
+    "korean": "Steam Touch 2"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Steam_Touch_3",
+    "source_hash": 736847824,
+    "english": "Steam Touch 3",
+    "korean": "Steam Touch 3"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Tab",
+    "source_hash": 3385211057,
+    "english": "Tab",
+    "korean": "Tab"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ThumbMouseButton",
+    "source_hash": 4059795614,
+    "english": "Thumb Mouse Button",
+    "korean": "마우스 옆 버튼 1"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ThumbMouseButton2",
+    "source_hash": 431345117,
+    "english": "Thumb Mouse Button 2",
+    "korean": "마우스 옆 버튼 2"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Tilt",
+    "source_hash": 640752400,
+    "english": "Tilt",
+    "korean": "기울기"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "TouchSubCateogry",
+    "source_hash": 1068637962,
+    "english": "Touch",
+    "korean": "터치"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "TouchFormat",
+    "source_hash": 3210711025,
+    "english": "Touch {0}",
+    "korean": "터치 {0}"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_Special_Left_X",
+    "source_hash": 2150202397,
+    "english": "Touchpad Button X Axis",
+    "korean": "터치패드 X축"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_Special_Left_Y",
+    "source_hash": 17570106,
+    "english": "Touchpad Button Y Axis",
+    "korean": "터치패드 Y축"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Underscore",
+    "source_hash": 1086883454,
+    "english": "Underscore",
+    "korean": "밑줄"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Up",
+    "source_hash": 333152855,
+    "english": "Up",
+    "korean": "위쪽 화살표"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndexSubCategory",
+    "source_hash": 3504550345,
+    "english": "Valve Index",
+    "korean": "Valve Index"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Left_A_Click",
+    "source_hash": 1690711144,
+    "english": "Valve Index (L) A Press",
+    "korean": "Valve Index (L) A Press"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Left_A_Touch",
+    "source_hash": 855486399,
+    "english": "Valve Index (L) A Touch",
+    "korean": "Valve Index (L) A Touch"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Left_B_Click",
+    "source_hash": 1712862031,
+    "english": "Valve Index (L) B Press",
+    "korean": "Valve Index (L) B Press"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Left_B_Touch",
+    "source_hash": 807643288,
+    "english": "Valve Index (L) B Touch",
+    "korean": "Valve Index (L) B Touch"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Left_Grip_Axis",
+    "source_hash": 1603095881,
+    "english": "Valve Index (L) Grip Axis",
+    "korean": "Valve Index (L) Grip Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Left_Grip_Force",
+    "source_hash": 1034970059,
+    "english": "Valve Index (L) Grip Force",
+    "korean": "Valve Index (L) Grip Force"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Left_System_Click",
+    "source_hash": 1086135246,
+    "english": "Valve Index (L) System",
+    "korean": "Valve Index (L) System"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Left_System_Touch",
+    "source_hash": 2074421447,
+    "english": "Valve Index (L) System Touch",
+    "korean": "Valve Index (L) System Touch"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Left_Thumbstick_2D",
+    "source_hash": 1106669663,
+    "english": "Valve Index (L) Thumbstick 2D-Axis",
+    "korean": "Valve Index (L) Thumbstick 2D-Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Left_Thumbstick_Click",
+    "source_hash": 3375755416,
+    "english": "Valve Index (L) Thumbstick Button",
+    "korean": "Valve Index (L) Thumbstick Button"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Left_Thumbstick_Down",
+    "source_hash": 703333160,
+    "english": "Valve Index (L) Thumbstick Down",
+    "korean": "Valve Index (L) Thumbstick Down"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Left_Thumbstick_Left",
+    "source_hash": 1065218632,
+    "english": "Valve Index (L) Thumbstick Left",
+    "korean": "Valve Index (L) Thumbstick Left"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Left_Thumbstick_Right",
+    "source_hash": 4020457148,
+    "english": "Valve Index (L) Thumbstick Right",
+    "korean": "Valve Index (L) Thumbstick Right"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Left_Thumbstick_Touch",
+    "source_hash": 2677489055,
+    "english": "Valve Index (L) Thumbstick Touch",
+    "korean": "Valve Index (L) Thumbstick Touch"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Left_Thumbstick_Up",
+    "source_hash": 2752683125,
+    "english": "Valve Index (L) Thumbstick Up",
+    "korean": "Valve Index (L) Thumbstick Up"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Left_Thumbstick_X",
+    "source_hash": 534442276,
+    "english": "Valve Index (L) Thumbstick X-Axis",
+    "korean": "Valve Index (L) Thumbstick X-Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Left_Thumbstick_Y",
+    "source_hash": 2667549699,
+    "english": "Valve Index (L) Thumbstick Y-Axis",
+    "korean": "Valve Index (L) Thumbstick Y-Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Left_Trackpad_2D",
+    "source_hash": 3574365427,
+    "english": "Valve Index (L) Trackpad 2D-Axis",
+    "korean": "Valve Index (L) Trackpad 2D-Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Left_Trackpad_Down",
+    "source_hash": 2364770124,
+    "english": "Valve Index (L) Trackpad Down",
+    "korean": "Valve Index (L) Trackpad Down"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Left_Trackpad_Force",
+    "source_hash": 183720853,
+    "english": "Valve Index (L) Trackpad Force",
+    "korean": "Valve Index (L) Trackpad Force"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Left_Trackpad_Left",
+    "source_hash": 2590144044,
+    "english": "Valve Index (L) Trackpad Left",
+    "korean": "Valve Index (L) Trackpad Left"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Left_Trackpad_Right",
+    "source_hash": 3594372173,
+    "english": "Valve Index (L) Trackpad Right",
+    "korean": "Valve Index (L) Trackpad Right"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Left_Trackpad_Touch",
+    "source_hash": 2785654638,
+    "english": "Valve Index (L) Trackpad Touch",
+    "korean": "Valve Index (L) Trackpad Touch"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Left_Trackpad_Up",
+    "source_hash": 896910226,
+    "english": "Valve Index (L) Trackpad Up",
+    "korean": "Valve Index (L) Trackpad Up"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Left_Trackpad_X",
+    "source_hash": 2908512259,
+    "english": "Valve Index (L) Trackpad X",
+    "korean": "Valve Index (L) Trackpad X"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Left_Trackpad_Y",
+    "source_hash": 367003494,
+    "english": "Valve Index (L) Trackpad Y",
+    "korean": "Valve Index (L) Trackpad Y"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Left_Trigger_Click",
+    "source_hash": 2296156498,
+    "english": "Valve Index (L) Trigger",
+    "korean": "Valve Index (L) Trigger"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Left_Trigger_Axis",
+    "source_hash": 976668221,
+    "english": "Valve Index (L) Trigger Axis",
+    "korean": "Valve Index (L) Trigger Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Left_Trigger_Touch",
+    "source_hash": 2728308286,
+    "english": "Valve Index (L) Trigger Touch",
+    "korean": "Valve Index (L) Trigger Touch"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Right_A_Click",
+    "source_hash": 3207321465,
+    "english": "Valve Index (R) A Press",
+    "korean": "Valve Index (R) A Press"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Right_A_Touch",
+    "source_hash": 3910159534,
+    "english": "Valve Index (R) A Touch",
+    "korean": "Valve Index (R) A Touch"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Right_B_Click",
+    "source_hash": 3187003486,
+    "english": "Valve Index (R) B Press",
+    "korean": "Valve Index (R) B Press"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Right_B_Touch",
+    "source_hash": 3956165513,
+    "english": "Valve Index (R) B Touch",
+    "korean": "Valve Index (R) B Touch"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Right_Grip_Axis",
+    "source_hash": 2301331042,
+    "english": "Valve Index (R) Grip Axis",
+    "korean": "Valve Index (R) Grip Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Right_Grip_Force",
+    "source_hash": 1083465435,
+    "english": "Valve Index (R) Grip Force",
+    "korean": "Valve Index (R) Grip Force"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Right_System_Click",
+    "source_hash": 412892992,
+    "english": "Valve Index (R) System",
+    "korean": "Valve Index (R) System"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Right_System_Touch",
+    "source_hash": 1406516768,
+    "english": "Valve Index (R) System Touch",
+    "korean": "Valve Index (R) System Touch"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Right_Thumbstick_2D",
+    "source_hash": 1533912880,
+    "english": "Valve Index (R) Thumbstick 2D-Axis",
+    "korean": "Valve Index (R) Thumbstick 2D-Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Right_Thumbstick_Click",
+    "source_hash": 2043733855,
+    "english": "Valve Index (R) Thumbstick Button",
+    "korean": "Valve Index (R) Thumbstick Button"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Right_Thumbstick_Down",
+    "source_hash": 3944970107,
+    "english": "Valve Index (R) Thumbstick Down",
+    "korean": "Valve Index (R) Thumbstick Down"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Right_Thumbstick_Left",
+    "source_hash": 4256335387,
+    "english": "Valve Index (R) Thumbstick Left",
+    "korean": "Valve Index (R) Thumbstick Left"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Right_Thumbstick_Right",
+    "source_hash": 1558922849,
+    "english": "Valve Index (R) Thumbstick Right",
+    "korean": "Valve Index (R) Thumbstick Right"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Right_Thumbstick_Touch",
+    "source_hash": 752825666,
+    "english": "Valve Index (R) Thumbstick Touch",
+    "korean": "Valve Index (R) Thumbstick Touch"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Right_Thumbstick_Up",
+    "source_hash": 212791482,
+    "english": "Valve Index (R) Thumbstick Up",
+    "korean": "Valve Index (R) Thumbstick Up"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Right_Thumbstick_X",
+    "source_hash": 2940200675,
+    "english": "Valve Index (R) Thumbstick X-Axis",
+    "korean": "Valve Index (R) Thumbstick X-Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Right_Thumbstick_Y",
+    "source_hash": 773489604,
+    "english": "Valve Index (R) Thumbstick Y-Axis",
+    "korean": "Valve Index (R) Thumbstick Y-Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Right_Trackpad_2D",
+    "source_hash": 1715762222,
+    "english": "Valve Index (R) Trackpad 2D-Axis",
+    "korean": "Valve Index (R) Trackpad 2D-Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Right_Trackpad_Down",
+    "source_hash": 609217411,
+    "english": "Valve Index (R) Trackpad Down",
+    "korean": "Valve Index (R) Trackpad Down"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Right_Trackpad_Force",
+    "source_hash": 4117585391,
+    "english": "Valve Index (R) Trackpad Force",
+    "korean": "Valve Index (R) Trackpad Force"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Right_Trackpad_Left",
+    "source_hash": 853416675,
+    "english": "Valve Index (R) Trackpad Left",
+    "korean": "Valve Index (R) Trackpad Left"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Right_Trackpad_Right",
+    "source_hash": 698597943,
+    "english": "Valve Index (R) Trackpad Right",
+    "korean": "Valve Index (R) Trackpad Right"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Right_Trackpad_Touch",
+    "source_hash": 1503113492,
+    "english": "Valve Index (R) Trackpad Touch",
+    "korean": "Valve Index (R) Trackpad Touch"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Right_Trackpad_Up",
+    "source_hash": 2525171433,
+    "english": "Valve Index (R) Trackpad Up",
+    "korean": "Valve Index (R) Trackpad Up"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Right_Trackpad_X",
+    "source_hash": 3497549075,
+    "english": "Valve Index (R) Trackpad X",
+    "korean": "Valve Index (R) Trackpad X"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Right_Trackpad_Y",
+    "source_hash": 1757690486,
+    "english": "Valve Index (R) Trackpad Y",
+    "korean": "Valve Index (R) Trackpad Y"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Right_Trigger_Click",
+    "source_hash": 1395749443,
+    "english": "Valve Index (R) Trigger",
+    "korean": "Valve Index (R) Trigger"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Right_Trigger_Axis",
+    "source_hash": 306598106,
+    "english": "Valve Index (R) Trigger Axis",
+    "korean": "Valve Index (R) Trigger Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ValveIndex_Right_Trigger_Touch",
+    "source_hash": 170050289,
+    "english": "Valve Index (R) Trigger Touch",
+    "korean": "Valve Index (R) Trigger Touch"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Vive_Left_Grip_Click",
+    "source_hash": 645713524,
+    "english": "Vive (L) Grip",
+    "korean": "Vive (L) Grip"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Vive_Left_Menu_Click",
+    "source_hash": 2538899712,
+    "english": "Vive (L) Menu",
+    "korean": "Vive (L) Menu"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Vive_Left_System_Click",
+    "source_hash": 2276587293,
+    "english": "Vive (L) System",
+    "korean": "Vive (L) System"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Vive_Left_Trackpad_2D",
+    "source_hash": 2672548413,
+    "english": "Vive (L) Trackpad 2D-Axis",
+    "korean": "Vive (L) Trackpad 2D-Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Vive_Left_Trackpad_Click",
+    "source_hash": 358996876,
+    "english": "Vive (L) Trackpad Button",
+    "korean": "Vive (L) Trackpad Button"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Vive_Left_Trackpad_Down",
+    "source_hash": 2795922912,
+    "english": "Vive (L) Trackpad Down",
+    "korean": "Vive (L) Trackpad Down"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Vive_Left_Trackpad_Left",
+    "source_hash": 2956432512,
+    "english": "Vive (L) Trackpad Left",
+    "korean": "Vive (L) Trackpad Left"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Vive_Left_Trackpad_Right",
+    "source_hash": 1737557753,
+    "english": "Vive (L) Trackpad Right",
+    "korean": "Vive (L) Trackpad Right"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Vive_Left_Trackpad_Touch",
+    "source_hash": 396719578,
+    "english": "Vive (L) Trackpad Touch",
+    "korean": "Vive (L) Trackpad Touch"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Vive_Left_Trackpad_Up",
+    "source_hash": 4008066065,
+    "english": "Vive (L) Trackpad Up",
+    "korean": "Vive (L) Trackpad Up"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Vive_Left_Trackpad_X",
+    "source_hash": 3280656944,
+    "english": "Vive (L) Trackpad X-Axis",
+    "korean": "Vive (L) Trackpad X-Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Vive_Left_Trackpad_Y",
+    "source_hash": 1118813975,
+    "english": "Vive (L) Trackpad Y-Axis",
+    "korean": "Vive (L) Trackpad Y-Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Vive_Left_Trigger_Click",
+    "source_hash": 3044062974,
+    "english": "Vive (L) Trigger",
+    "korean": "Vive (L) Trigger"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Vive_Left_Trigger_Axis",
+    "source_hash": 808401280,
+    "english": "Vive (L) Trigger Axis",
+    "korean": "Vive (L) Trigger Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Vive_Right_Grip_Click",
+    "source_hash": 892401922,
+    "english": "Vive (R) Grip",
+    "korean": "Vive (R) Grip"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Vive_Right_Menu_Click",
+    "source_hash": 2216214134,
+    "english": "Vive (R) Menu",
+    "korean": "Vive (R) Menu"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Vive_Right_System_Click",
+    "source_hash": 3750810515,
+    "english": "Vive (R) System",
+    "korean": "Vive (R) System"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Vive_Right_Trackpad_2D",
+    "source_hash": 738448096,
+    "english": "Vive (R) Trackpad 2D-Axis",
+    "korean": "Vive (R) Trackpad 2D-Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Vive_Right_Trackpad_Click",
+    "source_hash": 3618287583,
+    "english": "Vive (R) Trackpad Button",
+    "korean": "Vive (R) Trackpad Button"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Vive_Right_Trackpad_Down",
+    "source_hash": 236587311,
+    "english": "Vive (R) Trackpad Down",
+    "korean": "Vive (R) Trackpad Down"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Vive_Right_Trackpad_Left",
+    "source_hash": 411826255,
+    "english": "Vive (R) Trackpad Left",
+    "korean": "Vive (R) Trackpad Left"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Vive_Right_Trackpad_Right",
+    "source_hash": 2551120003,
+    "english": "Vive (R) Trackpad Right",
+    "korean": "Vive (R) Trackpad Right"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Vive_Right_Trackpad_Touch",
+    "source_hash": 3896210336,
+    "english": "Vive (R) Trackpad Touch",
+    "korean": "Vive (R) Trackpad Touch"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Vive_Right_Trackpad_Up",
+    "source_hash": 1292956010,
+    "english": "Vive (R) Trackpad Up",
+    "korean": "Vive (R) Trackpad Up"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Vive_Right_Trackpad_X",
+    "source_hash": 21343843,
+    "english": "Vive (R) Trackpad X-Axis",
+    "korean": "Vive (R) Trackpad X-Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Vive_Right_Trackpad_Y",
+    "source_hash": 2153827140,
+    "english": "Vive (R) Trackpad Y-Axis",
+    "korean": "Vive (R) Trackpad Y-Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Vive_Right_Trigger_Click",
+    "source_hash": 1855804911,
+    "english": "Vive (R) Trigger",
+    "korean": "Vive (R) Trigger"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Vive_Right_Trigger_Axis",
+    "source_hash": 408924007,
+    "english": "Vive (R) Trigger Axis",
+    "korean": "Vive (R) Trigger Axis"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MixedRealitySubCategory",
+    "source_hash": 506809594,
+    "english": "Windows Mixed Reality",
+    "korean": "Windows Mixed Reality"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "XBoxOneSubCateogry",
+    "source_hash": 157379846,
+    "english": "XBox One",
+    "korean": "XBox One"
+  }
+]

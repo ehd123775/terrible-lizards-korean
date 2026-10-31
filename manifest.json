@@ -1,5 +1,5 @@
 {
-  "version": "0.2",
+  "version": "0.3",
   "game_version": "v0.3.24+2233f6e",
   "engine_association": "5.4",
   "slot": "ja",
@@ -9,8 +9,10 @@
   "covered_unique": 2606,
   "translated_unique": 2588,
   "retained_unique": 18,
-  "hangul_glyphs_checked": 952,
-  "pak_sha256": "4f5e6e7c4dc09e4299e02cf3db6d9a3f0dfa3da67a31383c21ff52c882498eaa",
+  "text_reviewed_unique": 2606,
+  "revised_unique": 56,
+  "hangul_glyphs_checked": 953,
+  "pak_sha256": "ec2f36bd927ff715799f7b371140441041896afd79d536d900c68bc7997e86ad",
   "source_pak_sha256": "856de9bab527888a5f9118f39d4a2920b7944c44f080caf090d74883beae5f30",
   "font_overrides": [
     "terrible_lizards/Content/Blueprints/UI/text_styles/RobotoMono-VariableFont_wght.ufont",
@@ -102,5 +104,14 @@
       "covered": 5
     }
   },
-  "runtime_tested": false
+  "runtime_tested": true,
+  "input_keyname_entries": 362,
+  "runtime_scope": [
+    "main_menu",
+    "accessibility_settings",
+    "language_selection",
+    "subtitle_options"
+  ],
+  "full_playthrough_tested": false,
+  "input_keyname_runtime_tested": false
 }

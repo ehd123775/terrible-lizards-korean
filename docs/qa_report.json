@@ -1,0 +1,394 @@
+{
+  "text_reviewed_unique": 2606,
+  "covered_keys": 2787,
+  "input_keyname_entries": 362,
+  "left_shift_display": "왼쪽 Shift",
+  "japanese_input_labels_remaining": 0,
+  "errors": [],
+  "missing_glyphs": [],
+  "all_non_whitespace_characters_checked": 1049,
+  "number_notation_reviewed": true,
+  "number_changes_requiring_semantic_review": [
+    {
+      "id": 75,
+      "source": [],
+      "translation": [
+        "0180"
+      ]
+    },
+    {
+      "id": 209,
+      "source": [],
+      "translation": [
+        "2"
+      ]
+    },
+    {
+      "id": 210,
+      "source": [],
+      "translation": [
+        "06",
+        "20"
+      ]
+    },
+    {
+      "id": 381,
+      "source": [
+        "27",
+        "1983"
+      ],
+      "translation": [
+        "1983",
+        "2",
+        "27"
+      ]
+    },
+    {
+      "id": 382,
+      "source": [
+        "3",
+        "1986"
+      ],
+      "translation": [
+        "1986",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "id": 383,
+      "source": [
+        "15",
+        "1981"
+      ],
+      "translation": [
+        "1981",
+        "3",
+        "15"
+      ]
+    },
+    {
+      "id": 428,
+      "source": [
+        "12",
+        "1951",
+        "14",
+        "1951",
+        "15",
+        "1951",
+        "19",
+        "1951",
+        "20",
+        "1951"
+      ],
+      "translation": [
+        "1951",
+        "6",
+        "12",
+        "1951",
+        "6",
+        "14",
+        "1951",
+        "6",
+        "15",
+        "1951",
+        "6",
+        "19",
+        "1951",
+        "6",
+        "20"
+      ]
+    },
+    {
+      "id": 494,
+      "source": [
+        "12",
+        "60"
+      ],
+      "translation": [
+        "12",
+        "24",
+        "60"
+      ]
+    },
+    {
+      "id": 549,
+      "source": [
+        "3",
+        "1986"
+      ],
+      "translation": [
+        "1986",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "id": 550,
+      "source": [
+        "27",
+        "1983"
+      ],
+      "translation": [
+        "1983",
+        "2",
+        "27"
+      ]
+    },
+    {
+      "id": 678,
+      "source": [
+        "24"
+      ],
+      "translation": [
+        "20",
+        "24"
+      ]
+    },
+    {
+      "id": 679,
+      "source": [
+        "3",
+        "13",
+        "1951",
+        "341",
+        "1",
+        "2",
+        "3"
+      ],
+      "translation": [
+        "3",
+        "1951",
+        "4",
+        "13",
+        "341",
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "id": 680,
+      "source": [
+        "15",
+        "1951",
+        "1928",
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "translation": [
+        "1951",
+        "5",
+        "15",
+        "1928",
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "id": 816,
+      "source": [],
+      "translation": [
+        "2"
+      ]
+    },
+    {
+      "id": 829,
+      "source": [
+        "5"
+      ],
+      "translation": [
+        "10",
+        "5"
+      ]
+    },
+    {
+      "id": 875,
+      "source": [],
+      "translation": [
+        "2"
+      ]
+    },
+    {
+      "id": 953,
+      "source": [],
+      "translation": [
+        "1"
+      ]
+    },
+    {
+      "id": 1044,
+      "source": [],
+      "translation": [
+        "2"
+      ]
+    },
+    {
+      "id": 1090,
+      "source": [],
+      "translation": [
+        "2"
+      ]
+    },
+    {
+      "id": 1096,
+      "source": [
+        "10",
+        "1989"
+      ],
+      "translation": [
+        "1989",
+        "1",
+        "10"
+      ]
+    },
+    {
+      "id": 1117,
+      "source": [
+        "1982",
+        "10"
+      ],
+      "translation": [
+        "1982",
+        "6",
+        "10"
+      ]
+    },
+    {
+      "id": 1118,
+      "source": [],
+      "translation": [
+        "100"
+      ]
+    },
+    {
+      "id": 1224,
+      "source": [
+        "15",
+        "1981"
+      ],
+      "translation": [
+        "1981",
+        "3",
+        "15"
+      ]
+    },
+    {
+      "id": 1417,
+      "source": [],
+      "translation": [
+        "4"
+      ]
+    },
+    {
+      "id": 1490,
+      "source": [
+        "14",
+        "1949",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "7",
+        "6"
+      ],
+      "translation": [
+        "1949",
+        "12",
+        "14",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "7",
+        "6"
+      ]
+    },
+    {
+      "id": 1491,
+      "source": [
+        "7",
+        "1949"
+      ],
+      "translation": [
+        "1949",
+        "7",
+        "7"
+      ]
+    },
+    {
+      "id": 1623,
+      "source": [
+        "17"
+      ],
+      "translation": []
+    },
+    {
+      "id": 1639,
+      "source": [
+        "10",
+        "1989"
+      ],
+      "translation": [
+        "1989",
+        "1",
+        "10"
+      ]
+    },
+    {
+      "id": 1750,
+      "source": [],
+      "translation": [
+        "200"
+      ]
+    },
+    {
+      "id": 1751,
+      "source": [],
+      "translation": [
+        "2"
+      ]
+    },
+    {
+      "id": 1906,
+      "source": [
+        "25",
+        "80"
+      ],
+      "translation": [
+        "20",
+        "25",
+        "80"
+      ]
+    },
+    {
+      "id": 2017,
+      "source": [],
+      "translation": [
+        "24"
+      ]
+    },
+    {
+      "id": 2176,
+      "source": [],
+      "translation": [
+        "2"
+      ]
+    },
+    {
+      "id": 2233,
+      "source": [],
+      "translation": [
+        "2"
+      ]
+    }
+  ],
+  "source_index_and_hash_preserved": true,
+  "reference_counts_preserved": true
+}
