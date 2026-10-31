@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
     paths:
-      - release.json
+      - project/release.json
       - .github/workflows/release.yml
   workflow_dispatch:
 
@@ -29,11 +29,11 @@ jobs:
         run: |
           import hashlib, json, os, re, zipfile
           from pathlib import Path
-          meta=json.loads(Path('release.json').read_text(encoding='utf-8'))
+          meta=json.loads(Path('project/release.json').read_text(encoding='utf-8'))
           assert re.fullmatch(r'v[0-9]+(?:\.[0-9]+)+(?:-[A-Za-z0-9.]+)?',meta['tag'])
           assert re.fullmatch(r'TerribleLizards_Korean_v[0-9.]+\.zip',meta['asset'])
           path='terrible_lizards/Content/Paks/zzz_TerribleLizards_Korean_P.pak'
-          data=Path(path).read_bytes()
+          data=(Path('project')/path).read_bytes()
           assert hashlib.sha256(data).hexdigest()==meta['pak_sha256'], 'PAK checksum mismatch'
           with zipfile.ZipFile(meta['asset'],'w') as z:
               info=zipfile.ZipInfo(path,date_time=(1980,1,1,0,0,0))
@@ -62,8 +62,13 @@ jobs:
           set -euo pipefail
           if gh release view "$TAG" >/dev/null 2>&1; then
             gh release upload "$TAG" "$ASSET" "$ASSET.sha256" --clobber
+            if [ "$PRERELEASE" = "true" ]; then
+              gh release edit "$TAG" --title "$TITLE" --notes-file project/RELEASE_NOTES.md --prerelease=true
+            else
+              gh release edit "$TAG" --title "$TITLE" --notes-file project/RELEASE_NOTES.md --prerelease=false --latest
+            fi
           elif [ "$PRERELEASE" = "true" ]; then
-            gh release create "$TAG" "$ASSET" "$ASSET.sha256" --target "$GITHUB_SHA" --title "$TITLE" --notes-file RELEASE_NOTES.md --prerelease
+            gh release create "$TAG" "$ASSET" "$ASSET.sha256" --target "$GITHUB_SHA" --title "$TITLE" --notes-file project/RELEASE_NOTES.md --prerelease
           else
-            gh release create "$TAG" "$ASSET" "$ASSET.sha256" --target "$GITHUB_SHA" --title "$TITLE" --notes-file RELEASE_NOTES.md --latest
+            gh release create "$TAG" "$ASSET" "$ASSET.sha256" --target "$GITHUB_SHA" --title "$TITLE" --notes-file project/RELEASE_NOTES.md --latest
           fi

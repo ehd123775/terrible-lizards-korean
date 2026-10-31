@@ -53,7 +53,7 @@ D:\xbox\Terrible Lizards\Content\terrible_lizards\Content\Paks\zzz_TerribleLizar
 
 **전체 챕터 실플레이, 모든 대사의 상황별 말투, 컷신 자막 타이밍과 화면 잘림은 추가 확인 대상입니다.** 전체 텍스트의 1차 검수를 마친 베타로 배포합니다.
 
-자세한 결과는 [검수 보고서](docs/REVIEW.md), 버전별 변경은 [변경 기록](CHANGELOG.md)에서 확인하세요. `docs/review_changes.json`에는 스토리를 포함한 원문과 수정 전후 문장이 있습니다.
+자세한 결과는 [검수 보고서](project/docs/REVIEW.md), 버전별 변경은 [변경 기록](CHANGELOG.md)에서 확인하세요. `project/docs/review_changes.json`에는 스토리를 포함한 원문과 수정 전후 문장이 있습니다.
 
 ## 포함 범위와 지원 버전
 
@@ -77,7 +77,7 @@ D:\xbox\Terrible Lizards\Content\terrible_lizards\Content\Paks\zzz_TerribleLizar
 
 ## 글꼴 및 도구
 
-Noto Sans KR / Source 계열 글꼴: © 2014–2021 Adobe. SIL Open Font License 1.1. [라이선스 전문](licenses/NotoSans-OFL.txt)은 패치 PAK 내부에도 포함되어 있습니다.
+Noto Sans KR / Source 계열 글꼴: © 2014–2021 Adobe. SIL Open Font License 1.1. [라이선스 전문](project/licenses/NotoSans-OFL.txt)은 패치 PAK 내부에도 포함되어 있습니다.
 
 패키징: [repak](https://github.com/trumank/repak). 리소스 구조 참고: [CUE4Parse](https://github.com/FabianFG/CUE4Parse/blob/master/CUE4Parse/UE4/Localization/FTextLocalizationResource.cs).
 

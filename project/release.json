@@ -1,7 +1,7 @@
 {
   "tag": "v0.3",
-  "title": "v0.3 — 전체 텍스트 검수 수정본",
+  "title": "한글패치 v0.3 — 전체 텍스트 검수 수정본 (베타)",
   "asset": "TerribleLizards_Korean_v0.3.zip",
-  "prerelease": true,
+  "prerelease": false,
   "pak_sha256": "ec2f36bd927ff715799f7b371140441041896afd79d536d900c68bc7997e86ad"
 }
