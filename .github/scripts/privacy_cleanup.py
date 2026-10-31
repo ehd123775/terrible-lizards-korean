@@ -49,8 +49,32 @@ def rebuild(repo, refs):
 def api(method, endpoint, payload=None):
     args=['gh','api','--method',method,f'repos/{REPOSITORY}/{endpoint}']
     if payload is not None: args+=['--input','-']
-    p=subprocess.run(args,input=json.dumps(payload) if payload is not None else None,text=True,capture_output=True,check=True)
-    return json.loads(p.stdout) if p.stdout.strip() else None
+    for attempt in range(5):
+        p=subprocess.run(args,input=json.dumps(payload) if payload is not None else None,text=True,capture_output=True)
+        if p.returncode==0:
+            return json.loads(p.stdout) if p.stdout.strip() else None
+        if method not in ['GET','PATCH','DELETE'] or attempt==4:
+            raise RuntimeError('GitHub API request failed: '+p.stderr.strip())
+        time.sleep(3)
+
+def finish_clean_history(repo):
+    clean=set(git(repo,'rev-list','HEAD').decode().splitlines())
+    for sha in clean:
+        emails=git(repo,'show','-s','--format=%ae%n%ce',sha).decode().splitlines()
+        assert all(e=='noreply@github.com' or e.endswith('@users.noreply.github.com') for e in emails)
+    for release in api('GET','releases'):
+        target=git(repo,'rev-parse','refs/tags/'+release['tag_name']).decode().strip()
+        assert target in clean
+        digests={a['name']:a.get('digest') for a in release['assets']}
+        if release['target_commitish']!=target:
+            api('PATCH',f"releases/{release['id']}",{'target_commitish':target})
+        after=api('GET',f"releases/{release['id']}")
+        assert after['target_commitish']==target
+        assert digests=={a['name']:a.get('digest') for a in after['assets']}
+    runs=api('GET','actions/runs?per_page=100')['workflow_runs']
+    old=[r['id'] for r in runs if r['head_branch']=='main' and r['head_sha'] not in clean]
+    os.environ['OLD_RUN_IDS']=json.dumps(old)
+    purge_runs()
 
 def rewrite_remote(repo):
     assert os.environ['GITHUB_REPOSITORY']==REPOSITORY
@@ -64,7 +88,8 @@ def rewrite_remote(repo):
     asset_digests={r['id']:{a['name']:a.get('digest') for a in r['assets']} for r in releases}
     mapping,replaced=rebuild(repo,refs)
     if not replaced:
-        print('Commit identities are already private; no rewrite needed')
+        print('Commit identities are private; finishing release references and old run links')
+        finish_clean_history(repo)
         return
     runs=api('GET','actions/runs?per_page=100')['workflow_runs']
     old_runs=[r['id'] for r in runs if r['head_sha'] in mapping and r['head_sha']!=mapping[r['head_sha']]]
