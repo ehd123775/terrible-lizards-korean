@@ -1,0 +1,32 @@
+name: Update release description
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - project/RELEASE_NOTES.md
+      - .github/workflows/release-notes.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  notes:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          persist-credentials: false
+      - name: Update release notes
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        shell: python
+        run: |
+          import json, re, subprocess
+          from pathlib import Path
+          meta=json.loads(Path('project/release.json').read_text(encoding='utf-8'))
+          assert re.fullmatch(r'v[0-9]+(?:\.[0-9]+)+(?:-[A-Za-z0-9.]+)?',meta['tag'])
+          subprocess.run(['gh','release','edit',meta['tag'],'--notes-file','project/RELEASE_NOTES.md'],check=True)

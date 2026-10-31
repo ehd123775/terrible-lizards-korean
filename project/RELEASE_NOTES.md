@@ -1,6 +1,6 @@
 # v0.4 — 전체 텍스트 2차 검수 수정본
 
-**[TerribleLizards_Korean_v0.4.zip 받기](https://github.com/ehd123775/terrible-lizards-korean/releases/download/v0.4/TerribleLizards_Korean_v0.4.zip)**
+패치 파일은 아래 **Assets**에서 다운로드하세요.
 
 게임 종료 → 압축 해제 → `terrible_lizards` 폴더를 게임 `Content` 폴더에 복사·덮어쓰기 → Japanese 선택 → 자막 켜기·저장 순서로 적용합니다. ZIP에는 `terrible_lizards` 폴더 아래 패치 PAK 파일 하나만 들어 있습니다.
 
