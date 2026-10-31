@@ -1,7 +1,7 @@
 {
-  "tag": "v0.5",
-  "title": "한글패치 v0.5 — 3차 집중 검수 수정본 (베타)",
-  "asset": "TerribleLizards_Korean_v0.5.zip",
+  "tag": "v0.6",
+  "title": "한글패치 v0.6 — 전체 텍스트 4차 검수 수정본 (베타)",
+  "asset": "TerribleLizards_Korean_v0.6.zip",
   "prerelease": false,
-  "pak_sha256": "3f03aeb82877a06627d2650517852d5ec41436910f940c0f8646e91763b08b52"
+  "pak_sha256": "b6d660af81394b2be74e4506a5d49d3ca9d45e33ca8060c187af63baa3e4d681"
 }
