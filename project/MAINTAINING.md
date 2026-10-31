@@ -8,7 +8,7 @@
 
 main에 `project/release.json`이 변경되면 Publish Korean patch release 작업이 실행됩니다. `project/terrible_lizards/`의 PAK 해시를 검사하고 ZIP의 최상위에는 `terrible_lizards/` 폴더만 담습니다. ZIP과 SHA-256 파일을 해당 태그의 Release에 첨부합니다. Actions 화면의 Run workflow로 다시 실행할 수도 있습니다.
 
-새 수정본에는 새 버전 태그를 사용합니다. 저장소 오른쪽의 Releases에 최신 다운로드를 표시하려면 `prerelease`를 `false`로 설정합니다. 현재 v0.4는 Latest로 게시하되 제목과 본문에 베타임을 명시합니다. 전체 진행 검수 상태는 README와 릴리스 설명에 별도로 기록합니다.
+새 수정본에는 새 버전 태그를 사용합니다. 저장소 오른쪽의 Releases에 최신 다운로드를 표시하려면 `prerelease`를 `false`로 설정합니다. 현재 v0.5는 Latest로 게시하되 제목과 본문에 베타임을 명시합니다. 전체 진행 검수 상태는 README와 릴리스 설명에 별도로 기록합니다.
 
 큰 PAK를 직접 전송할 수 없을 때는 `project/build/pak_delta.json`으로 이전 PAK에서 새 PAK를 재구성할 수 있습니다. 배포 작업은 이전·새 해시와 크기를 검사하고, 완성된 PAK를 저장소에도 반영합니다. 이미 새 PAK가 있으면 해시만 확인합니다. 이 관리용 자료는 다운로드 ZIP에 들어가지 않습니다.
 

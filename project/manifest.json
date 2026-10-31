@@ -1,5 +1,5 @@
 {
-  "version": "0.4",
+  "version": "0.5",
   "game_version": "v0.3.24+2233f6e",
   "engine_association": "5.4",
   "slot": "ja",
@@ -10,9 +10,9 @@
   "translated_unique": 2588,
   "retained_unique": 18,
   "text_reviewed_unique": 2606,
-  "revised_unique": 29,
-  "hangul_glyphs_checked": 953,
-  "pak_sha256": "c5dc8bc6f6531a05f2ba8e959498c2798d6e9f7cf4efdcb54add6775d45b5de9",
+  "revised_unique": 16,
+  "hangul_glyphs_checked": 954,
+  "pak_sha256": "3f03aeb82877a06627d2650517852d5ec41436910f940c0f8646e91763b08b52",
   "source_pak_sha256": "856de9bab527888a5f9118f39d4a2920b7944c44f080caf090d74883beae5f30",
   "font_overrides": [
     "terrible_lizards/Content/Blueprints/UI/text_styles/RobotoMono-VariableFont_wght.ufont",
@@ -106,9 +106,12 @@
   },
   "runtime_tested": false,
   "input_keyname_entries": 362,
-  "review_round": 2,
-  "previous_version": "0.3",
+  "review_round": 3,
+  "previous_version": "0.4",
   "review_date": "2026-10-31",
   "full_playthrough_tested": false,
-  "input_keyname_runtime_tested": false
+  "input_keyname_runtime_tested": false,
+  "full_text_review_round": 2,
+  "review_scope": "focused",
+  "detailed_reviewed_this_round": 589
 }
